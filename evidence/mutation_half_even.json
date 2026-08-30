@@ -1,0 +1,3393 @@
+{
+  "records_compared": 2000,
+  "value_divergences": 376,
+  "formatting_only": 0,
+  "missing": [],
+  "extra": [],
+  "divergences": [
+    {
+      "account": "ACCT000000",
+      "field": "interest",
+      "expected": "3953.49",
+      "actual": "3953.48",
+      "delta": "-0.01",
+      "golden_line": "ACCT000000        3953.49       83023.19",
+      "actual_line": "ACCT000000        3953.48       83023.18"
+    },
+    {
+      "account": "ACCT000001",
+      "field": "interest",
+      "expected": "2233.91",
+      "actual": "2233.90",
+      "delta": "-0.01",
+      "golden_line": "ACCT000001        2233.91       46912.01",
+      "actual_line": "ACCT000001        2233.90       46912.00"
+    },
+    {
+      "account": "ACCT000002",
+      "field": "interest",
+      "expected": "273.81",
+      "actual": "273.80",
+      "delta": "-0.01",
+      "golden_line": "ACCT000002         273.81        5749.91",
+      "actual_line": "ACCT000002         273.80        5749.90"
+    },
+    {
+      "account": "ACCT000011",
+      "field": "interest",
+      "expected": "4916.33",
+      "actual": "4916.32",
+      "delta": "-0.01",
+      "golden_line": "ACCT000011        4916.33      103242.83",
+      "actual_line": "ACCT000011        4916.32      103242.82"
+    },
+    {
+      "account": "ACCT000012",
+      "field": "interest",
+      "expected": "1735.19",
+      "actual": "1735.18",
+      "delta": "-0.01",
+      "golden_line": "ACCT000012        1735.19       36438.89",
+      "actual_line": "ACCT000012        1735.18       36438.88"
+    },
+    {
+      "account": "ACCT000021",
+      "field": "interest",
+      "expected": "2787.41",
+      "actual": "2787.40",
+      "delta": "-0.01",
+      "golden_line": "ACCT000021        2787.41       58535.51",
+      "actual_line": "ACCT000021        2787.40       58535.50"
+    },
+    {
+      "account": "ACCT000030",
+      "field": "interest",
+      "expected": "3543.83",
+      "actual": "3543.82",
+      "delta": "-0.01",
+      "golden_line": "ACCT000030        3543.83       74420.33",
+      "actual_line": "ACCT000030        3543.82       74420.32"
+    },
+    {
+      "account": "ACCT000032",
+      "field": "interest",
+      "expected": "2971.19",
+      "actual": "2971.18",
+      "delta": "-0.01",
+      "golden_line": "ACCT000032        2971.19       62394.89",
+      "actual_line": "ACCT000032        2971.18       62394.88"
+    },
+    {
+      "account": "ACCT000040",
+      "field": "interest",
+      "expected": "1538.87",
+      "actual": "1538.86",
+      "delta": "-0.01",
+      "golden_line": "ACCT000040        1538.87       32316.17",
+      "actual_line": "ACCT000040        1538.86       32316.16"
+    },
+    {
+      "account": "ACCT000041",
+      "field": "interest",
+      "expected": "2064.55",
+      "actual": "2064.54",
+      "delta": "-0.01",
+      "golden_line": "ACCT000041        2064.55       43355.45",
+      "actual_line": "ACCT000041        2064.54       43355.44"
+    },
+    {
+      "account": "ACCT000052",
+      "field": "interest",
+      "expected": "1228.75",
+      "actual": "1228.74",
+      "delta": "-0.01",
+      "golden_line": "ACCT000052        1228.75       25803.65",
+      "actual_line": "ACCT000052        1228.74       25803.64"
+    },
+    {
+      "account": "ACCT000060",
+      "field": "interest",
+      "expected": "169.21",
+      "actual": "169.20",
+      "delta": "-0.01",
+      "golden_line": "ACCT000060         169.21        3553.31",
+      "actual_line": "ACCT000060         169.20        3553.30"
+    },
+    {
+      "account": "ACCT000071",
+      "field": "interest",
+      "expected": "3722.35",
+      "actual": "3722.34",
+      "delta": "-0.01",
+      "golden_line": "ACCT000071        3722.35       78169.25",
+      "actual_line": "ACCT000071        3722.34       78169.24"
+    },
+    {
+      "account": "ACCT000073",
+      "field": "interest",
+      "expected": "3845.15",
+      "actual": "3845.14",
+      "delta": "-0.01",
+      "golden_line": "ACCT000073        3845.15       80748.05",
+      "actual_line": "ACCT000073        3845.14       80748.04"
+    },
+    {
+      "account": "ACCT000080",
+      "field": "interest",
+      "expected": "1208.59",
+      "actual": "1208.58",
+      "delta": "-0.01",
+      "golden_line": "ACCT000080        1208.59       25380.29",
+      "actual_line": "ACCT000080        1208.58       25380.28"
+    },
+    {
+      "account": "ACCT000082",
+      "field": "interest",
+      "expected": "4578.13",
+      "actual": "4578.12",
+      "delta": "-0.01",
+      "golden_line": "ACCT000082        4578.13       96140.63",
+      "actual_line": "ACCT000082        4578.12       96140.62"
+    },
+    {
+      "account": "ACCT000093",
+      "field": "interest",
+      "expected": "4701.15",
+      "actual": "4701.14",
+      "delta": "-0.01",
+      "golden_line": "ACCT000093        4701.15       98724.05",
+      "actual_line": "ACCT000093        4701.14       98724.04"
+    },
+    {
+      "account": "ACCT000100",
+      "field": "interest",
+      "expected": "1752.39",
+      "actual": "1752.38",
+      "delta": "-0.01",
+      "golden_line": "ACCT000100        1752.39       36800.09",
+      "actual_line": "ACCT000100        1752.38       36800.08"
+    },
+    {
+      "account": "ACCT000101",
+      "field": "interest",
+      "expected": "2657.41",
+      "actual": "2657.40",
+      "delta": "-0.01",
+      "golden_line": "ACCT000101        2657.41       55805.51",
+      "actual_line": "ACCT000101        2657.40       55805.50"
+    },
+    {
+      "account": "ACCT000103",
+      "field": "interest",
+      "expected": "934.11",
+      "actual": "934.10",
+      "delta": "-0.01",
+      "golden_line": "ACCT000103         934.11       19616.21",
+      "actual_line": "ACCT000103         934.10       19616.20"
+    },
+    {
+      "account": "ACCT000111",
+      "field": "interest",
+      "expected": "129.89",
+      "actual": "129.88",
+      "delta": "-0.01",
+      "golden_line": "ACCT000111         129.89        2727.59",
+      "actual_line": "ACCT000111         129.88        2727.58"
+    },
+    {
+      "account": "ACCT000112",
+      "field": "interest",
+      "expected": "4657.71",
+      "actual": "4657.70",
+      "delta": "-0.01",
+      "golden_line": "ACCT000112        4657.71       97811.81",
+      "actual_line": "ACCT000112        4657.70       97811.80"
+    },
+    {
+      "account": "ACCT000120",
+      "field": "interest",
+      "expected": "2329.03",
+      "actual": "2329.02",
+      "delta": "-0.01",
+      "golden_line": "ACCT000120        2329.03       48909.53",
+      "actual_line": "ACCT000120        2329.02       48909.52"
+    },
+    {
+      "account": "ACCT000121",
+      "field": "interest",
+      "expected": "510.97",
+      "actual": "510.96",
+      "delta": "-0.01",
+      "golden_line": "ACCT000121         510.97       10730.27",
+      "actual_line": "ACCT000121         510.96       10730.26"
+    },
+    {
+      "account": "ACCT000132",
+      "field": "interest",
+      "expected": "300.33",
+      "actual": "300.32",
+      "delta": "-0.01",
+      "golden_line": "ACCT000132         300.33        6306.83",
+      "actual_line": "ACCT000132         300.32        6306.82"
+    },
+    {
+      "account": "ACCT000133",
+      "field": "interest",
+      "expected": "2420.41",
+      "actual": "2420.40",
+      "delta": "-0.01",
+      "golden_line": "ACCT000133        2420.41       50828.51",
+      "actual_line": "ACCT000133        2420.40       50828.50"
+    },
+    {
+      "account": "ACCT000141",
+      "field": "interest",
+      "expected": "3099.47",
+      "actual": "3099.46",
+      "delta": "-0.01",
+      "golden_line": "ACCT000141        3099.47       65088.77",
+      "actual_line": "ACCT000141        3099.46       65088.76"
+    },
+    {
+      "account": "ACCT000142",
+      "field": "interest",
+      "expected": "2639.15",
+      "actual": "2639.14",
+      "delta": "-0.01",
+      "golden_line": "ACCT000142        2639.15       55422.05",
+      "actual_line": "ACCT000142        2639.14       55422.04"
+    },
+    {
+      "account": "ACCT000143",
+      "field": "interest",
+      "expected": "2612.67",
+      "actual": "2612.66",
+      "delta": "-0.01",
+      "golden_line": "ACCT000143        2612.67       54865.97",
+      "actual_line": "ACCT000143        2612.66       54865.96"
+    },
+    {
+      "account": "ACCT000150",
+      "field": "interest",
+      "expected": "2823.63",
+      "actual": "2823.62",
+      "delta": "-0.01",
+      "golden_line": "ACCT000150        2823.63       59296.13",
+      "actual_line": "ACCT000150        2823.62       59296.12"
+    },
+    {
+      "account": "ACCT000151",
+      "field": "interest",
+      "expected": "3945.95",
+      "actual": "3945.94",
+      "delta": "-0.01",
+      "golden_line": "ACCT000151        3945.95       82864.85",
+      "actual_line": "ACCT000151        3945.94       82864.84"
+    },
+    {
+      "account": "ACCT000152",
+      "field": "interest",
+      "expected": "4701.69",
+      "actual": "4701.68",
+      "delta": "-0.01",
+      "golden_line": "ACCT000152        4701.69       98735.39",
+      "actual_line": "ACCT000152        4701.68       98735.38"
+    },
+    {
+      "account": "ACCT000153",
+      "field": "interest",
+      "expected": "4800.49",
+      "actual": "4800.48",
+      "delta": "-0.01",
+      "golden_line": "ACCT000153        4800.49      100810.19",
+      "actual_line": "ACCT000153        4800.48      100810.18"
+    },
+    {
+      "account": "ACCT000161",
+      "field": "interest",
+      "expected": "3588.85",
+      "actual": "3588.84",
+      "delta": "-0.01",
+      "golden_line": "ACCT000161        3588.85       75365.75",
+      "actual_line": "ACCT000161        3588.84       75365.74"
+    },
+    {
+      "account": "ACCT000170",
+      "field": "interest",
+      "expected": "1356.39",
+      "actual": "1356.38",
+      "delta": "-0.01",
+      "golden_line": "ACCT000170        1356.39       28484.09",
+      "actual_line": "ACCT000170        1356.38       28484.08"
+    },
+    {
+      "account": "ACCT000171",
+      "field": "interest",
+      "expected": "2476.19",
+      "actual": "2476.18",
+      "delta": "-0.01",
+      "golden_line": "ACCT000171        2476.19       51999.89",
+      "actual_line": "ACCT000171        2476.18       51999.88"
+    },
+    {
+      "account": "ACCT000172",
+      "field": "interest",
+      "expected": "1376.53",
+      "actual": "1376.52",
+      "delta": "-0.01",
+      "golden_line": "ACCT000172        1376.53       28907.03",
+      "actual_line": "ACCT000172        1376.52       28907.02"
+    },
+    {
+      "account": "ACCT000180",
+      "field": "interest",
+      "expected": "4420.91",
+      "actual": "4420.90",
+      "delta": "-0.01",
+      "golden_line": "ACCT000180        4420.91       92839.01",
+      "actual_line": "ACCT000180        4420.90       92839.00"
+    },
+    {
+      "account": "ACCT000181",
+      "field": "interest",
+      "expected": "1464.27",
+      "actual": "1464.26",
+      "delta": "-0.01",
+      "golden_line": "ACCT000181        1464.27       30749.57",
+      "actual_line": "ACCT000181        1464.26       30749.56"
+    },
+    {
+      "account": "ACCT000190",
+      "field": "interest",
+      "expected": "1492.93",
+      "actual": "1492.92",
+      "delta": "-0.01",
+      "golden_line": "ACCT000190        1492.93       31351.43",
+      "actual_line": "ACCT000190        1492.92       31351.42"
+    },
+    {
+      "account": "ACCT000191",
+      "field": "interest",
+      "expected": "221.91",
+      "actual": "221.90",
+      "delta": "-0.01",
+      "golden_line": "ACCT000191         221.91        4660.01",
+      "actual_line": "ACCT000191         221.90        4660.00"
+    },
+    {
+      "account": "ACCT000193",
+      "field": "interest",
+      "expected": "3687.83",
+      "actual": "3687.82",
+      "delta": "-0.01",
+      "golden_line": "ACCT000193        3687.83       77444.33",
+      "actual_line": "ACCT000193        3687.82       77444.32"
+    },
+    {
+      "account": "ACCT000200",
+      "field": "interest",
+      "expected": "4056.93",
+      "actual": "4056.92",
+      "delta": "-0.01",
+      "golden_line": "ACCT000200        4056.93       85195.43",
+      "actual_line": "ACCT000200        4056.92       85195.42"
+    },
+    {
+      "account": "ACCT000210",
+      "field": "interest",
+      "expected": "3125.23",
+      "actual": "3125.22",
+      "delta": "-0.01",
+      "golden_line": "ACCT000210        3125.23       65629.73",
+      "actual_line": "ACCT000210        3125.22       65629.72"
+    },
+    {
+      "account": "ACCT000220",
+      "field": "interest",
+      "expected": "3283.53",
+      "actual": "3283.52",
+      "delta": "-0.01",
+      "golden_line": "ACCT000220        3283.53       68954.03",
+      "actual_line": "ACCT000220        3283.52       68954.02"
+    },
+    {
+      "account": "ACCT000221",
+      "field": "interest",
+      "expected": "4861.95",
+      "actual": "4861.94",
+      "delta": "-0.01",
+      "golden_line": "ACCT000221        4861.95      102100.85",
+      "actual_line": "ACCT000221        4861.94      102100.84"
+    },
+    {
+      "account": "ACCT000230",
+      "field": "interest",
+      "expected": "1657.33",
+      "actual": "1657.32",
+      "delta": "-0.01",
+      "golden_line": "ACCT000230        1657.33       34803.83",
+      "actual_line": "ACCT000230        1657.32       34803.82"
+    },
+    {
+      "account": "ACCT000250",
+      "field": "interest",
+      "expected": "2703.13",
+      "actual": "2703.12",
+      "delta": "-0.01",
+      "golden_line": "ACCT000250        2703.13       56765.63",
+      "actual_line": "ACCT000250        2703.12       56765.62"
+    },
+    {
+      "account": "ACCT000253",
+      "field": "interest",
+      "expected": "2528.37",
+      "actual": "2528.36",
+      "delta": "-0.01",
+      "golden_line": "ACCT000253        2528.37       53095.67",
+      "actual_line": "ACCT000253        2528.36       53095.66"
+    },
+    {
+      "account": "ACCT000263",
+      "field": "interest",
+      "expected": "43.21",
+      "actual": "43.20",
+      "delta": "-0.01",
+      "golden_line": "ACCT000263          43.21         907.31",
+      "actual_line": "ACCT000263          43.20         907.30"
+    },
+    {
+      "account": "ACCT000270",
+      "field": "interest",
+      "expected": "1877.67",
+      "actual": "1877.66",
+      "delta": "-0.01",
+      "golden_line": "ACCT000270        1877.67       39430.97",
+      "actual_line": "ACCT000270        1877.66       39430.96"
+    },
+    {
+      "account": "ACCT000271",
+      "field": "interest",
+      "expected": "1186.19",
+      "actual": "1186.18",
+      "delta": "-0.01",
+      "golden_line": "ACCT000271        1186.19       24909.89",
+      "actual_line": "ACCT000271        1186.18       24909.88"
+    },
+    {
+      "account": "ACCT000281",
+      "field": "interest",
+      "expected": "993.23",
+      "actual": "993.22",
+      "delta": "-0.01",
+      "golden_line": "ACCT000281         993.23       20857.73",
+      "actual_line": "ACCT000281         993.22       20857.72"
+    },
+    {
+      "account": "ACCT000291",
+      "field": "interest",
+      "expected": "3773.45",
+      "actual": "3773.44",
+      "delta": "-0.01",
+      "golden_line": "ACCT000291        3773.45       79242.35",
+      "actual_line": "ACCT000291        3773.44       79242.34"
+    },
+    {
+      "account": "ACCT000292",
+      "field": "interest",
+      "expected": "3759.07",
+      "actual": "3759.06",
+      "delta": "-0.01",
+      "golden_line": "ACCT000292        3759.07       78940.37",
+      "actual_line": "ACCT000292        3759.06       78940.36"
+    },
+    {
+      "account": "ACCT000320",
+      "field": "interest",
+      "expected": "3049.97",
+      "actual": "3049.96",
+      "delta": "-0.01",
+      "golden_line": "ACCT000320        3049.97       64049.27",
+      "actual_line": "ACCT000320        3049.96       64049.26"
+    },
+    {
+      "account": "ACCT000321",
+      "field": "interest",
+      "expected": "1055.69",
+      "actual": "1055.68",
+      "delta": "-0.01",
+      "golden_line": "ACCT000321        1055.69       22169.39",
+      "actual_line": "ACCT000321        1055.68       22169.38"
+    },
+    {
+      "account": "ACCT000323",
+      "field": "interest",
+      "expected": "4766.09",
+      "actual": "4766.08",
+      "delta": "-0.01",
+      "golden_line": "ACCT000323        4766.09      100087.79",
+      "actual_line": "ACCT000323        4766.08      100087.78"
+    },
+    {
+      "account": "ACCT000333",
+      "field": "interest",
+      "expected": "2909.63",
+      "actual": "2909.62",
+      "delta": "-0.01",
+      "golden_line": "ACCT000333        2909.63       61102.13",
+      "actual_line": "ACCT000333        2909.62       61102.12"
+    },
+    {
+      "account": "ACCT000340",
+      "field": "interest",
+      "expected": "4860.73",
+      "actual": "4860.72",
+      "delta": "-0.01",
+      "golden_line": "ACCT000340        4860.73      102075.23",
+      "actual_line": "ACCT000340        4860.72      102075.22"
+    },
+    {
+      "account": "ACCT000351",
+      "field": "interest",
+      "expected": "4940.91",
+      "actual": "4940.90",
+      "delta": "-0.01",
+      "golden_line": "ACCT000351        4940.91      103759.01",
+      "actual_line": "ACCT000351        4940.90      103759.00"
+    },
+    {
+      "account": "ACCT000361",
+      "field": "interest",
+      "expected": "3967.67",
+      "actual": "3967.66",
+      "delta": "-0.01",
+      "golden_line": "ACCT000361        3967.67       83320.97",
+      "actual_line": "ACCT000361        3967.66       83320.96"
+    },
+    {
+      "account": "ACCT000362",
+      "field": "interest",
+      "expected": "2456.07",
+      "actual": "2456.06",
+      "delta": "-0.01",
+      "golden_line": "ACCT000362        2456.07       51577.37",
+      "actual_line": "ACCT000362        2456.06       51577.36"
+    },
+    {
+      "account": "ACCT000363",
+      "field": "interest",
+      "expected": "1477.15",
+      "actual": "1477.14",
+      "delta": "-0.01",
+      "golden_line": "ACCT000363        1477.15       31020.05",
+      "actual_line": "ACCT000363        1477.14       31020.04"
+    },
+    {
+      "account": "ACCT000370",
+      "field": "interest",
+      "expected": "4880.17",
+      "actual": "4880.16",
+      "delta": "-0.01",
+      "golden_line": "ACCT000370        4880.17      102483.47",
+      "actual_line": "ACCT000370        4880.16      102483.46"
+    },
+    {
+      "account": "ACCT000373",
+      "field": "interest",
+      "expected": "2229.77",
+      "actual": "2229.76",
+      "delta": "-0.01",
+      "golden_line": "ACCT000373        2229.77       46825.07",
+      "actual_line": "ACCT000373        2229.76       46825.06"
+    },
+    {
+      "account": "ACCT000380",
+      "field": "interest",
+      "expected": "1316.01",
+      "actual": "1316.00",
+      "delta": "-0.01",
+      "golden_line": "ACCT000380        1316.01       27636.11",
+      "actual_line": "ACCT000380        1316.00       27636.10"
+    },
+    {
+      "account": "ACCT000382",
+      "field": "interest",
+      "expected": "2957.41",
+      "actual": "2957.40",
+      "delta": "-0.01",
+      "golden_line": "ACCT000382        2957.41       62105.51",
+      "actual_line": "ACCT000382        2957.40       62105.50"
+    },
+    {
+      "account": "ACCT000393",
+      "field": "interest",
+      "expected": "1341.77",
+      "actual": "1341.76",
+      "delta": "-0.01",
+      "golden_line": "ACCT000393        1341.77       28177.07",
+      "actual_line": "ACCT000393        1341.76       28177.06"
+    },
+    {
+      "account": "ACCT000400",
+      "field": "interest",
+      "expected": "3957.57",
+      "actual": "3957.56",
+      "delta": "-0.01",
+      "golden_line": "ACCT000400        3957.57       83108.87",
+      "actual_line": "ACCT000400        3957.56       83108.86"
+    },
+    {
+      "account": "ACCT000401",
+      "field": "interest",
+      "expected": "1156.11",
+      "actual": "1156.10",
+      "delta": "-0.01",
+      "golden_line": "ACCT000401        1156.11       24278.21",
+      "actual_line": "ACCT000401        1156.10       24278.20"
+    },
+    {
+      "account": "ACCT000403",
+      "field": "interest",
+      "expected": "4599.49",
+      "actual": "4599.48",
+      "delta": "-0.01",
+      "golden_line": "ACCT000403        4599.49       96589.19",
+      "actual_line": "ACCT000403        4599.48       96589.18"
+    },
+    {
+      "account": "ACCT000420",
+      "field": "interest",
+      "expected": "3730.09",
+      "actual": "3730.08",
+      "delta": "-0.01",
+      "golden_line": "ACCT000420        3730.09       78331.79",
+      "actual_line": "ACCT000420        3730.08       78331.78"
+    },
+    {
+      "account": "ACCT000422",
+      "field": "interest",
+      "expected": "4909.85",
+      "actual": "4909.84",
+      "delta": "-0.01",
+      "golden_line": "ACCT000422        4909.85      103106.75",
+      "actual_line": "ACCT000422        4909.84      103106.74"
+    },
+    {
+      "account": "ACCT000423",
+      "field": "interest",
+      "expected": "656.39",
+      "actual": "656.38",
+      "delta": "-0.01",
+      "golden_line": "ACCT000423         656.39       13784.09",
+      "actual_line": "ACCT000423         656.38       13784.08"
+    },
+    {
+      "account": "ACCT000430",
+      "field": "interest",
+      "expected": "4928.09",
+      "actual": "4928.08",
+      "delta": "-0.01",
+      "golden_line": "ACCT000430        4928.09      103489.79",
+      "actual_line": "ACCT000430        4928.08      103489.78"
+    },
+    {
+      "account": "ACCT000431",
+      "field": "interest",
+      "expected": "170.07",
+      "actual": "170.06",
+      "delta": "-0.01",
+      "golden_line": "ACCT000431         170.07        3571.37",
+      "actual_line": "ACCT000431         170.06        3571.36"
+    },
+    {
+      "account": "ACCT000433",
+      "field": "interest",
+      "expected": "3258.51",
+      "actual": "3258.50",
+      "delta": "-0.01",
+      "golden_line": "ACCT000433        3258.51       68428.61",
+      "actual_line": "ACCT000433        3258.50       68428.60"
+    },
+    {
+      "account": "ACCT000451",
+      "field": "interest",
+      "expected": "1443.91",
+      "actual": "1443.90",
+      "delta": "-0.01",
+      "golden_line": "ACCT000451        1443.91       30322.01",
+      "actual_line": "ACCT000451        1443.90       30322.00"
+    },
+    {
+      "account": "ACCT000453",
+      "field": "interest",
+      "expected": "2642.53",
+      "actual": "2642.52",
+      "delta": "-0.01",
+      "golden_line": "ACCT000453        2642.53       55493.03",
+      "actual_line": "ACCT000453        2642.52       55493.02"
+    },
+    {
+      "account": "ACCT000461",
+      "field": "interest",
+      "expected": "2395.39",
+      "actual": "2395.38",
+      "delta": "-0.01",
+      "golden_line": "ACCT000461        2395.39       50303.09",
+      "actual_line": "ACCT000461        2395.38       50303.08"
+    },
+    {
+      "account": "ACCT000462",
+      "field": "interest",
+      "expected": "399.49",
+      "actual": "399.48",
+      "delta": "-0.01",
+      "golden_line": "ACCT000462         399.49        8389.19",
+      "actual_line": "ACCT000462         399.48        8389.18"
+    },
+    {
+      "account": "ACCT000472",
+      "field": "interest",
+      "expected": "3233.39",
+      "actual": "3233.38",
+      "delta": "-0.01",
+      "golden_line": "ACCT000472        3233.39       67901.09",
+      "actual_line": "ACCT000472        3233.38       67901.08"
+    },
+    {
+      "account": "ACCT000473",
+      "field": "interest",
+      "expected": "4532.67",
+      "actual": "4532.66",
+      "delta": "-0.01",
+      "golden_line": "ACCT000473        4532.67       95185.97",
+      "actual_line": "ACCT000473        4532.66       95185.96"
+    },
+    {
+      "account": "ACCT000481",
+      "field": "interest",
+      "expected": "2990.13",
+      "actual": "2990.12",
+      "delta": "-0.01",
+      "golden_line": "ACCT000481        2990.13       62792.63",
+      "actual_line": "ACCT000481        2990.12       62792.62"
+    },
+    {
+      "account": "ACCT000482",
+      "field": "interest",
+      "expected": "2774.03",
+      "actual": "2774.02",
+      "delta": "-0.01",
+      "golden_line": "ACCT000482        2774.03       58254.53",
+      "actual_line": "ACCT000482        2774.02       58254.52"
+    },
+    {
+      "account": "ACCT000490",
+      "field": "interest",
+      "expected": "1204.47",
+      "actual": "1204.46",
+      "delta": "-0.01",
+      "golden_line": "ACCT000490        1204.47       25293.77",
+      "actual_line": "ACCT000490        1204.46       25293.76"
+    },
+    {
+      "account": "ACCT000491",
+      "field": "interest",
+      "expected": "4503.07",
+      "actual": "4503.06",
+      "delta": "-0.01",
+      "golden_line": "ACCT000491        4503.07       94564.37",
+      "actual_line": "ACCT000491        4503.06       94564.36"
+    },
+    {
+      "account": "ACCT000492",
+      "field": "interest",
+      "expected": "4557.95",
+      "actual": "4557.94",
+      "delta": "-0.01",
+      "golden_line": "ACCT000492        4557.95       95716.85",
+      "actual_line": "ACCT000492        4557.94       95716.84"
+    },
+    {
+      "account": "ACCT000493",
+      "field": "interest",
+      "expected": "4153.81",
+      "actual": "4153.80",
+      "delta": "-0.01",
+      "golden_line": "ACCT000493        4153.81       87229.91",
+      "actual_line": "ACCT000493        4153.80       87229.90"
+    },
+    {
+      "account": "ACCT000501",
+      "field": "interest",
+      "expected": "3155.45",
+      "actual": "3155.44",
+      "delta": "-0.01",
+      "golden_line": "ACCT000501        3155.45       66264.35",
+      "actual_line": "ACCT000501        3155.44       66264.34"
+    },
+    {
+      "account": "ACCT000503",
+      "field": "interest",
+      "expected": "1015.91",
+      "actual": "1015.90",
+      "delta": "-0.01",
+      "golden_line": "ACCT000503        1015.91       21334.01",
+      "actual_line": "ACCT000503        1015.90       21334.00"
+    },
+    {
+      "account": "ACCT000511",
+      "field": "interest",
+      "expected": "1003.75",
+      "actual": "1003.74",
+      "delta": "-0.01",
+      "golden_line": "ACCT000511        1003.75       21078.65",
+      "actual_line": "ACCT000511        1003.74       21078.64"
+    },
+    {
+      "account": "ACCT000512",
+      "field": "interest",
+      "expected": "2603.99",
+      "actual": "2603.98",
+      "delta": "-0.01",
+      "golden_line": "ACCT000512        2603.99       54683.69",
+      "actual_line": "ACCT000512        2603.98       54683.68"
+    },
+    {
+      "account": "ACCT000520",
+      "field": "interest",
+      "expected": "610.71",
+      "actual": "610.70",
+      "delta": "-0.01",
+      "golden_line": "ACCT000520         610.71       12824.81",
+      "actual_line": "ACCT000520         610.70       12824.80"
+    },
+    {
+      "account": "ACCT000521",
+      "field": "interest",
+      "expected": "143.73",
+      "actual": "143.72",
+      "delta": "-0.01",
+      "golden_line": "ACCT000521         143.73        3018.23",
+      "actual_line": "ACCT000521         143.72        3018.22"
+    },
+    {
+      "account": "ACCT000522",
+      "field": "interest",
+      "expected": "3699.07",
+      "actual": "3699.06",
+      "delta": "-0.01",
+      "golden_line": "ACCT000522        3699.07       77680.37",
+      "actual_line": "ACCT000522        3699.06       77680.36"
+    },
+    {
+      "account": "ACCT000523",
+      "field": "interest",
+      "expected": "3148.51",
+      "actual": "3148.50",
+      "delta": "-0.01",
+      "golden_line": "ACCT000523        3148.51       66118.61",
+      "actual_line": "ACCT000523        3148.50       66118.60"
+    },
+    {
+      "account": "ACCT000530",
+      "field": "interest",
+      "expected": "3613.47",
+      "actual": "3613.46",
+      "delta": "-0.01",
+      "golden_line": "ACCT000530        3613.47       75882.77",
+      "actual_line": "ACCT000530        3613.46       75882.76"
+    },
+    {
+      "account": "ACCT000533",
+      "field": "interest",
+      "expected": "4639.99",
+      "actual": "4639.98",
+      "delta": "-0.01",
+      "golden_line": "ACCT000533        4639.99       97439.69",
+      "actual_line": "ACCT000533        4639.98       97439.68"
+    },
+    {
+      "account": "ACCT000540",
+      "field": "interest",
+      "expected": "788.05",
+      "actual": "788.04",
+      "delta": "-0.01",
+      "golden_line": "ACCT000540         788.05       16548.95",
+      "actual_line": "ACCT000540         788.04       16548.94"
+    },
+    {
+      "account": "ACCT000541",
+      "field": "interest",
+      "expected": "3445.35",
+      "actual": "3445.34",
+      "delta": "-0.01",
+      "golden_line": "ACCT000541        3445.35       72352.25",
+      "actual_line": "ACCT000541        3445.34       72352.24"
+    },
+    {
+      "account": "ACCT000542",
+      "field": "interest",
+      "expected": "2387.21",
+      "actual": "2387.20",
+      "delta": "-0.01",
+      "golden_line": "ACCT000542        2387.21       50131.31",
+      "actual_line": "ACCT000542        2387.20       50131.30"
+    },
+    {
+      "account": "ACCT000553",
+      "field": "interest",
+      "expected": "3366.49",
+      "actual": "3366.48",
+      "delta": "-0.01",
+      "golden_line": "ACCT000553        3366.49       70696.19",
+      "actual_line": "ACCT000553        3366.48       70696.18"
+    },
+    {
+      "account": "ACCT000572",
+      "field": "interest",
+      "expected": "125.51",
+      "actual": "125.50",
+      "delta": "-0.01",
+      "golden_line": "ACCT000572         125.51        2635.61",
+      "actual_line": "ACCT000572         125.50        2635.60"
+    },
+    {
+      "account": "ACCT000580",
+      "field": "interest",
+      "expected": "1729.89",
+      "actual": "1729.88",
+      "delta": "-0.01",
+      "golden_line": "ACCT000580        1729.89       36327.59",
+      "actual_line": "ACCT000580        1729.88       36327.58"
+    },
+    {
+      "account": "ACCT000592",
+      "field": "interest",
+      "expected": "2896.09",
+      "actual": "2896.08",
+      "delta": "-0.01",
+      "golden_line": "ACCT000592        2896.09       60817.79",
+      "actual_line": "ACCT000592        2896.08       60817.78"
+    },
+    {
+      "account": "ACCT000593",
+      "field": "interest",
+      "expected": "1066.75",
+      "actual": "1066.74",
+      "delta": "-0.01",
+      "golden_line": "ACCT000593        1066.75       22401.65",
+      "actual_line": "ACCT000593        1066.74       22401.64"
+    },
+    {
+      "account": "ACCT000600",
+      "field": "interest",
+      "expected": "1115.77",
+      "actual": "1115.76",
+      "delta": "-0.01",
+      "golden_line": "ACCT000600        1115.77       23431.07",
+      "actual_line": "ACCT000600        1115.76       23431.06"
+    },
+    {
+      "account": "ACCT000601",
+      "field": "interest",
+      "expected": "4176.87",
+      "actual": "4176.86",
+      "delta": "-0.01",
+      "golden_line": "ACCT000601        4176.87       87714.17",
+      "actual_line": "ACCT000601        4176.86       87714.16"
+    },
+    {
+      "account": "ACCT000602",
+      "field": "interest",
+      "expected": "2780.09",
+      "actual": "2780.08",
+      "delta": "-0.01",
+      "golden_line": "ACCT000602        2780.09       58381.79",
+      "actual_line": "ACCT000602        2780.08       58381.78"
+    },
+    {
+      "account": "ACCT000613",
+      "field": "interest",
+      "expected": "4308.97",
+      "actual": "4308.96",
+      "delta": "-0.01",
+      "golden_line": "ACCT000613        4308.97       90488.27",
+      "actual_line": "ACCT000613        4308.96       90488.26"
+    },
+    {
+      "account": "ACCT000620",
+      "field": "interest",
+      "expected": "827.25",
+      "actual": "827.24",
+      "delta": "-0.01",
+      "golden_line": "ACCT000620         827.25       17372.15",
+      "actual_line": "ACCT000620         827.24       17372.14"
+    },
+    {
+      "account": "ACCT000623",
+      "field": "interest",
+      "expected": "2321.89",
+      "actual": "2321.88",
+      "delta": "-0.01",
+      "golden_line": "ACCT000623        2321.89       48759.59",
+      "actual_line": "ACCT000623        2321.88       48759.58"
+    },
+    {
+      "account": "ACCT000632",
+      "field": "interest",
+      "expected": "1471.95",
+      "actual": "1471.94",
+      "delta": "-0.01",
+      "golden_line": "ACCT000632        1471.95       30910.85",
+      "actual_line": "ACCT000632        1471.94       30910.84"
+    },
+    {
+      "account": "ACCT000633",
+      "field": "interest",
+      "expected": "82.23",
+      "actual": "82.22",
+      "delta": "-0.01",
+      "golden_line": "ACCT000633          82.23        1726.73",
+      "actual_line": "ACCT000633          82.22        1726.72"
+    },
+    {
+      "account": "ACCT000640",
+      "field": "interest",
+      "expected": "2403.89",
+      "actual": "2403.88",
+      "delta": "-0.01",
+      "golden_line": "ACCT000640        2403.89       50481.59",
+      "actual_line": "ACCT000640        2403.88       50481.58"
+    },
+    {
+      "account": "ACCT000641",
+      "field": "interest",
+      "expected": "3579.53",
+      "actual": "3579.52",
+      "delta": "-0.01",
+      "golden_line": "ACCT000641        3579.53       75170.03",
+      "actual_line": "ACCT000641        3579.52       75170.02"
+    },
+    {
+      "account": "ACCT000650",
+      "field": "interest",
+      "expected": "554.83",
+      "actual": "554.82",
+      "delta": "-0.01",
+      "golden_line": "ACCT000650         554.83       11651.33",
+      "actual_line": "ACCT000650         554.82       11651.32"
+    },
+    {
+      "account": "ACCT000651",
+      "field": "interest",
+      "expected": "1873.87",
+      "actual": "1873.86",
+      "delta": "-0.01",
+      "golden_line": "ACCT000651        1873.87       39351.17",
+      "actual_line": "ACCT000651        1873.86       39351.16"
+    },
+    {
+      "account": "ACCT000652",
+      "field": "interest",
+      "expected": "1063.19",
+      "actual": "1063.18",
+      "delta": "-0.01",
+      "golden_line": "ACCT000652        1063.19       22326.89",
+      "actual_line": "ACCT000652        1063.18       22326.88"
+    },
+    {
+      "account": "ACCT000653",
+      "field": "interest",
+      "expected": "227.23",
+      "actual": "227.22",
+      "delta": "-0.01",
+      "golden_line": "ACCT000653         227.23        4771.73",
+      "actual_line": "ACCT000653         227.22        4771.72"
+    },
+    {
+      "account": "ACCT000661",
+      "field": "interest",
+      "expected": "2306.39",
+      "actual": "2306.38",
+      "delta": "-0.01",
+      "golden_line": "ACCT000661        2306.39       48434.09",
+      "actual_line": "ACCT000661        2306.38       48434.08"
+    },
+    {
+      "account": "ACCT000663",
+      "field": "interest",
+      "expected": "3635.25",
+      "actual": "3635.24",
+      "delta": "-0.01",
+      "golden_line": "ACCT000663        3635.25       76340.15",
+      "actual_line": "ACCT000663        3635.24       76340.14"
+    },
+    {
+      "account": "ACCT000670",
+      "field": "interest",
+      "expected": "4494.89",
+      "actual": "4494.88",
+      "delta": "-0.01",
+      "golden_line": "ACCT000670        4494.89       94392.59",
+      "actual_line": "ACCT000670        4494.88       94392.58"
+    },
+    {
+      "account": "ACCT000671",
+      "field": "interest",
+      "expected": "1311.91",
+      "actual": "1311.90",
+      "delta": "-0.01",
+      "golden_line": "ACCT000671        1311.91       27550.01",
+      "actual_line": "ACCT000671        1311.90       27550.00"
+    },
+    {
+      "account": "ACCT000672",
+      "field": "interest",
+      "expected": "742.91",
+      "actual": "742.90",
+      "delta": "-0.01",
+      "golden_line": "ACCT000672         742.91       15601.01",
+      "actual_line": "ACCT000672         742.90       15601.00"
+    },
+    {
+      "account": "ACCT000680",
+      "field": "interest",
+      "expected": "4989.39",
+      "actual": "4989.38",
+      "delta": "-0.01",
+      "golden_line": "ACCT000680        4989.39      104777.09",
+      "actual_line": "ACCT000680        4989.38      104777.08"
+    },
+    {
+      "account": "ACCT000683",
+      "field": "interest",
+      "expected": "138.51",
+      "actual": "138.50",
+      "delta": "-0.01",
+      "golden_line": "ACCT000683         138.51        2908.61",
+      "actual_line": "ACCT000683         138.50        2908.60"
+    },
+    {
+      "account": "ACCT000690",
+      "field": "interest",
+      "expected": "404.69",
+      "actual": "404.68",
+      "delta": "-0.01",
+      "golden_line": "ACCT000690         404.69        8498.39",
+      "actual_line": "ACCT000690         404.68        8498.38"
+    },
+    {
+      "account": "ACCT000691",
+      "field": "interest",
+      "expected": "1512.65",
+      "actual": "1512.64",
+      "delta": "-0.01",
+      "golden_line": "ACCT000691        1512.65       31765.55",
+      "actual_line": "ACCT000691        1512.64       31765.54"
+    },
+    {
+      "account": "ACCT000700",
+      "field": "interest",
+      "expected": "4791.49",
+      "actual": "4791.48",
+      "delta": "-0.01",
+      "golden_line": "ACCT000700        4791.49      100621.19",
+      "actual_line": "ACCT000700        4791.48      100621.18"
+    },
+    {
+      "account": "ACCT000703",
+      "field": "interest",
+      "expected": "4407.57",
+      "actual": "4407.56",
+      "delta": "-0.01",
+      "golden_line": "ACCT000703        4407.57       92558.87",
+      "actual_line": "ACCT000703        4407.56       92558.86"
+    },
+    {
+      "account": "ACCT000710",
+      "field": "interest",
+      "expected": "4560.85",
+      "actual": "4560.84",
+      "delta": "-0.01",
+      "golden_line": "ACCT000710        4560.85       95777.75",
+      "actual_line": "ACCT000710        4560.84       95777.74"
+    },
+    {
+      "account": "ACCT000712",
+      "field": "interest",
+      "expected": "2298.17",
+      "actual": "2298.16",
+      "delta": "-0.01",
+      "golden_line": "ACCT000712        2298.17       48261.47",
+      "actual_line": "ACCT000712        2298.16       48261.46"
+    },
+    {
+      "account": "ACCT000713",
+      "field": "interest",
+      "expected": "4840.67",
+      "actual": "4840.66",
+      "delta": "-0.01",
+      "golden_line": "ACCT000713        4840.67      101653.97",
+      "actual_line": "ACCT000713        4840.66      101653.96"
+    },
+    {
+      "account": "ACCT000720",
+      "field": "interest",
+      "expected": "2054.05",
+      "actual": "2054.04",
+      "delta": "-0.01",
+      "golden_line": "ACCT000720        2054.05       43134.95",
+      "actual_line": "ACCT000720        2054.04       43134.94"
+    },
+    {
+      "account": "ACCT000722",
+      "field": "interest",
+      "expected": "1976.67",
+      "actual": "1976.66",
+      "delta": "-0.01",
+      "golden_line": "ACCT000722        1976.67       41509.97",
+      "actual_line": "ACCT000722        1976.66       41509.96"
+    },
+    {
+      "account": "ACCT000731",
+      "field": "interest",
+      "expected": "1125.35",
+      "actual": "1125.34",
+      "delta": "-0.01",
+      "golden_line": "ACCT000731        1125.35       23632.25",
+      "actual_line": "ACCT000731        1125.34       23632.24"
+    },
+    {
+      "account": "ACCT000732",
+      "field": "interest",
+      "expected": "641.97",
+      "actual": "641.96",
+      "delta": "-0.01",
+      "golden_line": "ACCT000732         641.97       13481.27",
+      "actual_line": "ACCT000732         641.96       13481.26"
+    },
+    {
+      "account": "ACCT000733",
+      "field": "interest",
+      "expected": "1101.99",
+      "actual": "1101.98",
+      "delta": "-0.01",
+      "golden_line": "ACCT000733        1101.99       23141.69",
+      "actual_line": "ACCT000733        1101.98       23141.68"
+    },
+    {
+      "account": "ACCT000740",
+      "field": "interest",
+      "expected": "1723.29",
+      "actual": "1723.28",
+      "delta": "-0.01",
+      "golden_line": "ACCT000740        1723.29       36188.99",
+      "actual_line": "ACCT000740        1723.28       36188.98"
+    },
+    {
+      "account": "ACCT000742",
+      "field": "interest",
+      "expected": "183.09",
+      "actual": "183.08",
+      "delta": "-0.01",
+      "golden_line": "ACCT000742         183.09        3844.79",
+      "actual_line": "ACCT000742         183.08        3844.78"
+    },
+    {
+      "account": "ACCT000752",
+      "field": "interest",
+      "expected": "4004.11",
+      "actual": "4004.10",
+      "delta": "-0.01",
+      "golden_line": "ACCT000752        4004.11       84086.21",
+      "actual_line": "ACCT000752        4004.10       84086.20"
+    },
+    {
+      "account": "ACCT000753",
+      "field": "interest",
+      "expected": "1290.47",
+      "actual": "1290.46",
+      "delta": "-0.01",
+      "golden_line": "ACCT000753        1290.47       27099.77",
+      "actual_line": "ACCT000753        1290.46       27099.76"
+    },
+    {
+      "account": "ACCT000760",
+      "field": "interest",
+      "expected": "2953.59",
+      "actual": "2953.58",
+      "delta": "-0.01",
+      "golden_line": "ACCT000760        2953.59       62025.29",
+      "actual_line": "ACCT000760        2953.58       62025.28"
+    },
+    {
+      "account": "ACCT000761",
+      "field": "interest",
+      "expected": "3395.43",
+      "actual": "3395.42",
+      "delta": "-0.01",
+      "golden_line": "ACCT000761        3395.43       71303.93",
+      "actual_line": "ACCT000761        3395.42       71303.92"
+    },
+    {
+      "account": "ACCT000763",
+      "field": "interest",
+      "expected": "184.69",
+      "actual": "184.68",
+      "delta": "-0.01",
+      "golden_line": "ACCT000763         184.69        3878.39",
+      "actual_line": "ACCT000763         184.68        3878.38"
+    },
+    {
+      "account": "ACCT000770",
+      "field": "interest",
+      "expected": "1405.15",
+      "actual": "1405.14",
+      "delta": "-0.01",
+      "golden_line": "ACCT000770        1405.15       29508.05",
+      "actual_line": "ACCT000770        1405.14       29508.04"
+    },
+    {
+      "account": "ACCT000772",
+      "field": "interest",
+      "expected": "1455.89",
+      "actual": "1455.88",
+      "delta": "-0.01",
+      "golden_line": "ACCT000772        1455.89       30573.59",
+      "actual_line": "ACCT000772        1455.88       30573.58"
+    },
+    {
+      "account": "ACCT000773",
+      "field": "interest",
+      "expected": "495.97",
+      "actual": "495.96",
+      "delta": "-0.01",
+      "golden_line": "ACCT000773         495.97       10415.27",
+      "actual_line": "ACCT000773         495.96       10415.26"
+    },
+    {
+      "account": "ACCT000780",
+      "field": "interest",
+      "expected": "2668.81",
+      "actual": "2668.80",
+      "delta": "-0.01",
+      "golden_line": "ACCT000780        2668.81       56044.91",
+      "actual_line": "ACCT000780        2668.80       56044.90"
+    },
+    {
+      "account": "ACCT000781",
+      "field": "interest",
+      "expected": "3497.79",
+      "actual": "3497.78",
+      "delta": "-0.01",
+      "golden_line": "ACCT000781        3497.79       73453.49",
+      "actual_line": "ACCT000781        3497.78       73453.48"
+    },
+    {
+      "account": "ACCT000783",
+      "field": "interest",
+      "expected": "3713.49",
+      "actual": "3713.48",
+      "delta": "-0.01",
+      "golden_line": "ACCT000783        3713.49       77983.19",
+      "actual_line": "ACCT000783        3713.48       77983.18"
+    },
+    {
+      "account": "ACCT000790",
+      "field": "interest",
+      "expected": "4636.57",
+      "actual": "4636.56",
+      "delta": "-0.01",
+      "golden_line": "ACCT000790        4636.57       97367.87",
+      "actual_line": "ACCT000790        4636.56       97367.86"
+    },
+    {
+      "account": "ACCT000791",
+      "field": "interest",
+      "expected": "3540.39",
+      "actual": "3540.38",
+      "delta": "-0.01",
+      "golden_line": "ACCT000791        3540.39       74348.09",
+      "actual_line": "ACCT000791        3540.38       74348.08"
+    },
+    {
+      "account": "ACCT000792",
+      "field": "interest",
+      "expected": "3355.37",
+      "actual": "3355.36",
+      "delta": "-0.01",
+      "golden_line": "ACCT000792        3355.37       70462.67",
+      "actual_line": "ACCT000792        3355.36       70462.66"
+    },
+    {
+      "account": "ACCT000800",
+      "field": "interest",
+      "expected": "3375.33",
+      "actual": "3375.32",
+      "delta": "-0.01",
+      "golden_line": "ACCT000800        3375.33       70881.83",
+      "actual_line": "ACCT000800        3375.32       70881.82"
+    },
+    {
+      "account": "ACCT000812",
+      "field": "interest",
+      "expected": "4818.49",
+      "actual": "4818.48",
+      "delta": "-0.01",
+      "golden_line": "ACCT000812        4818.49      101188.19",
+      "actual_line": "ACCT000812        4818.48      101188.18"
+    },
+    {
+      "account": "ACCT000813",
+      "field": "interest",
+      "expected": "1221.53",
+      "actual": "1221.52",
+      "delta": "-0.01",
+      "golden_line": "ACCT000813        1221.53       25652.03",
+      "actual_line": "ACCT000813        1221.52       25652.02"
+    },
+    {
+      "account": "ACCT000821",
+      "field": "interest",
+      "expected": "4283.47",
+      "actual": "4283.46",
+      "delta": "-0.01",
+      "golden_line": "ACCT000821        4283.47       89952.77",
+      "actual_line": "ACCT000821        4283.46       89952.76"
+    },
+    {
+      "account": "ACCT000830",
+      "field": "interest",
+      "expected": "3920.43",
+      "actual": "3920.42",
+      "delta": "-0.01",
+      "golden_line": "ACCT000830        3920.43       82328.93",
+      "actual_line": "ACCT000830        3920.42       82328.92"
+    },
+    {
+      "account": "ACCT000832",
+      "field": "interest",
+      "expected": "2332.17",
+      "actual": "2332.16",
+      "delta": "-0.01",
+      "golden_line": "ACCT000832        2332.17       48975.47",
+      "actual_line": "ACCT000832        2332.16       48975.46"
+    },
+    {
+      "account": "ACCT000833",
+      "field": "interest",
+      "expected": "4513.97",
+      "actual": "4513.96",
+      "delta": "-0.01",
+      "golden_line": "ACCT000833        4513.97       94793.27",
+      "actual_line": "ACCT000833        4513.96       94793.26"
+    },
+    {
+      "account": "ACCT000841",
+      "field": "interest",
+      "expected": "1681.77",
+      "actual": "1681.76",
+      "delta": "-0.01",
+      "golden_line": "ACCT000841        1681.77       35317.07",
+      "actual_line": "ACCT000841        1681.76       35317.06"
+    },
+    {
+      "account": "ACCT000842",
+      "field": "interest",
+      "expected": "1709.99",
+      "actual": "1709.98",
+      "delta": "-0.01",
+      "golden_line": "ACCT000842        1709.99       35909.69",
+      "actual_line": "ACCT000842        1709.98       35909.68"
+    },
+    {
+      "account": "ACCT000852",
+      "field": "interest",
+      "expected": "1860.69",
+      "actual": "1860.68",
+      "delta": "-0.01",
+      "golden_line": "ACCT000852        1860.69       39074.39",
+      "actual_line": "ACCT000852        1860.68       39074.38"
+    },
+    {
+      "account": "ACCT000853",
+      "field": "interest",
+      "expected": "979.01",
+      "actual": "979.00",
+      "delta": "-0.01",
+      "golden_line": "ACCT000853         979.01       20559.11",
+      "actual_line": "ACCT000853         979.00       20559.10"
+    },
+    {
+      "account": "ACCT000860",
+      "field": "interest",
+      "expected": "2683.37",
+      "actual": "2683.36",
+      "delta": "-0.01",
+      "golden_line": "ACCT000860        2683.37       56350.67",
+      "actual_line": "ACCT000860        2683.36       56350.66"
+    },
+    {
+      "account": "ACCT000870",
+      "field": "interest",
+      "expected": "2060.91",
+      "actual": "2060.90",
+      "delta": "-0.01",
+      "golden_line": "ACCT000870        2060.91       43279.01",
+      "actual_line": "ACCT000870        2060.90       43279.00"
+    },
+    {
+      "account": "ACCT000871",
+      "field": "interest",
+      "expected": "4445.97",
+      "actual": "4445.96",
+      "delta": "-0.01",
+      "golden_line": "ACCT000871        4445.97       93365.27",
+      "actual_line": "ACCT000871        4445.96       93365.26"
+    },
+    {
+      "account": "ACCT000880",
+      "field": "interest",
+      "expected": "3597.59",
+      "actual": "3597.58",
+      "delta": "-0.01",
+      "golden_line": "ACCT000880        3597.59       75549.29",
+      "actual_line": "ACCT000880        3597.58       75549.28"
+    },
+    {
+      "account": "ACCT000881",
+      "field": "interest",
+      "expected": "501.51",
+      "actual": "501.50",
+      "delta": "-0.01",
+      "golden_line": "ACCT000881         501.51       10531.61",
+      "actual_line": "ACCT000881         501.50       10531.60"
+    },
+    {
+      "account": "ACCT000882",
+      "field": "interest",
+      "expected": "3559.25",
+      "actual": "3559.24",
+      "delta": "-0.01",
+      "golden_line": "ACCT000882        3559.25       74744.15",
+      "actual_line": "ACCT000882        3559.24       74744.14"
+    },
+    {
+      "account": "ACCT000890",
+      "field": "interest",
+      "expected": "2700.41",
+      "actual": "2700.40",
+      "delta": "-0.01",
+      "golden_line": "ACCT000890        2700.41       56708.51",
+      "actual_line": "ACCT000890        2700.40       56708.50"
+    },
+    {
+      "account": "ACCT000891",
+      "field": "interest",
+      "expected": "1359.45",
+      "actual": "1359.44",
+      "delta": "-0.01",
+      "golden_line": "ACCT000891        1359.45       28548.35",
+      "actual_line": "ACCT000891        1359.44       28548.34"
+    },
+    {
+      "account": "ACCT000892",
+      "field": "interest",
+      "expected": "3190.69",
+      "actual": "3190.68",
+      "delta": "-0.01",
+      "golden_line": "ACCT000892        3190.69       67004.39",
+      "actual_line": "ACCT000892        3190.68       67004.38"
+    },
+    {
+      "account": "ACCT000901",
+      "field": "interest",
+      "expected": "1225.93",
+      "actual": "1225.92",
+      "delta": "-0.01",
+      "golden_line": "ACCT000901        1225.93       25744.43",
+      "actual_line": "ACCT000901        1225.92       25744.42"
+    },
+    {
+      "account": "ACCT000910",
+      "field": "interest",
+      "expected": "3459.25",
+      "actual": "3459.24",
+      "delta": "-0.01",
+      "golden_line": "ACCT000910        3459.25       72644.15",
+      "actual_line": "ACCT000910        3459.24       72644.14"
+    },
+    {
+      "account": "ACCT000920",
+      "field": "interest",
+      "expected": "4276.17",
+      "actual": "4276.16",
+      "delta": "-0.01",
+      "golden_line": "ACCT000920        4276.17       89799.47",
+      "actual_line": "ACCT000920        4276.16       89799.46"
+    },
+    {
+      "account": "ACCT000921",
+      "field": "interest",
+      "expected": "2885.27",
+      "actual": "2885.26",
+      "delta": "-0.01",
+      "golden_line": "ACCT000921        2885.27       60590.57",
+      "actual_line": "ACCT000921        2885.26       60590.56"
+    },
+    {
+      "account": "ACCT000931",
+      "field": "interest",
+      "expected": "251.15",
+      "actual": "251.14",
+      "delta": "-0.01",
+      "golden_line": "ACCT000931         251.15        5274.05",
+      "actual_line": "ACCT000931         251.14        5274.04"
+    },
+    {
+      "account": "ACCT000933",
+      "field": "interest",
+      "expected": "4984.75",
+      "actual": "4984.74",
+      "delta": "-0.01",
+      "golden_line": "ACCT000933        4984.75      104679.65",
+      "actual_line": "ACCT000933        4984.74      104679.64"
+    },
+    {
+      "account": "ACCT000941",
+      "field": "interest",
+      "expected": "1227.09",
+      "actual": "1227.08",
+      "delta": "-0.01",
+      "golden_line": "ACCT000941        1227.09       25768.79",
+      "actual_line": "ACCT000941        1227.08       25768.78"
+    },
+    {
+      "account": "ACCT000943",
+      "field": "interest",
+      "expected": "2222.63",
+      "actual": "2222.62",
+      "delta": "-0.01",
+      "golden_line": "ACCT000943        2222.63       46675.13",
+      "actual_line": "ACCT000943        2222.62       46675.12"
+    },
+    {
+      "account": "ACCT000950",
+      "field": "interest",
+      "expected": "1088.83",
+      "actual": "1088.82",
+      "delta": "-0.01",
+      "golden_line": "ACCT000950        1088.83       22865.33",
+      "actual_line": "ACCT000950        1088.82       22865.32"
+    },
+    {
+      "account": "ACCT000952",
+      "field": "interest",
+      "expected": "4623.37",
+      "actual": "4623.36",
+      "delta": "-0.01",
+      "golden_line": "ACCT000952        4623.37       97090.67",
+      "actual_line": "ACCT000952        4623.36       97090.66"
+    },
+    {
+      "account": "ACCT000953",
+      "field": "interest",
+      "expected": "2108.55",
+      "actual": "2108.54",
+      "delta": "-0.01",
+      "golden_line": "ACCT000953        2108.55       44279.45",
+      "actual_line": "ACCT000953        2108.54       44279.44"
+    },
+    {
+      "account": "ACCT000960",
+      "field": "interest",
+      "expected": "3894.21",
+      "actual": "3894.20",
+      "delta": "-0.01",
+      "golden_line": "ACCT000960        3894.21       81778.31",
+      "actual_line": "ACCT000960        3894.20       81778.30"
+    },
+    {
+      "account": "ACCT000971",
+      "field": "interest",
+      "expected": "1919.95",
+      "actual": "1919.94",
+      "delta": "-0.01",
+      "golden_line": "ACCT000971        1919.95       40318.85",
+      "actual_line": "ACCT000971        1919.94       40318.84"
+    },
+    {
+      "account": "ACCT000981",
+      "field": "interest",
+      "expected": "3087.65",
+      "actual": "3087.64",
+      "delta": "-0.01",
+      "golden_line": "ACCT000981        3087.65       64840.55",
+      "actual_line": "ACCT000981        3087.64       64840.54"
+    },
+    {
+      "account": "ACCT000982",
+      "field": "interest",
+      "expected": "503.41",
+      "actual": "503.40",
+      "delta": "-0.01",
+      "golden_line": "ACCT000982         503.41       10571.51",
+      "actual_line": "ACCT000982         503.40       10571.50"
+    },
+    {
+      "account": "ACCT000983",
+      "field": "interest",
+      "expected": "2325.57",
+      "actual": "2325.56",
+      "delta": "-0.01",
+      "golden_line": "ACCT000983        2325.57       48836.87",
+      "actual_line": "ACCT000983        2325.56       48836.86"
+    },
+    {
+      "account": "ACCT000993",
+      "field": "interest",
+      "expected": "1857.99",
+      "actual": "1857.98",
+      "delta": "-0.01",
+      "golden_line": "ACCT000993        1857.99       39017.69",
+      "actual_line": "ACCT000993        1857.98       39017.68"
+    },
+    {
+      "account": "ACCT001011",
+      "field": "interest",
+      "expected": "1892.53",
+      "actual": "1892.52",
+      "delta": "-0.01",
+      "golden_line": "ACCT001011        1892.53       39743.03",
+      "actual_line": "ACCT001011        1892.52       39743.02"
+    },
+    {
+      "account": "ACCT001013",
+      "field": "interest",
+      "expected": "4315.99",
+      "actual": "4315.98",
+      "delta": "-0.01",
+      "golden_line": "ACCT001013        4315.99       90635.69",
+      "actual_line": "ACCT001013        4315.98       90635.68"
+    },
+    {
+      "account": "ACCT001020",
+      "field": "interest",
+      "expected": "2126.27",
+      "actual": "2126.26",
+      "delta": "-0.01",
+      "golden_line": "ACCT001020        2126.27       44651.57",
+      "actual_line": "ACCT001020        2126.26       44651.56"
+    },
+    {
+      "account": "ACCT001032",
+      "field": "interest",
+      "expected": "3550.77",
+      "actual": "3550.76",
+      "delta": "-0.01",
+      "golden_line": "ACCT001032        3550.77       74566.07",
+      "actual_line": "ACCT001032        3550.76       74566.06"
+    },
+    {
+      "account": "ACCT001041",
+      "field": "interest",
+      "expected": "538.01",
+      "actual": "538.00",
+      "delta": "-0.01",
+      "golden_line": "ACCT001041         538.01       11298.11",
+      "actual_line": "ACCT001041         538.00       11298.10"
+    },
+    {
+      "account": "ACCT001042",
+      "field": "interest",
+      "expected": "4667.61",
+      "actual": "4667.60",
+      "delta": "-0.01",
+      "golden_line": "ACCT001042        4667.61       98019.71",
+      "actual_line": "ACCT001042        4667.60       98019.70"
+    },
+    {
+      "account": "ACCT001050",
+      "field": "interest",
+      "expected": "1240.75",
+      "actual": "1240.74",
+      "delta": "-0.01",
+      "golden_line": "ACCT001050        1240.75       26055.65",
+      "actual_line": "ACCT001050        1240.74       26055.64"
+    },
+    {
+      "account": "ACCT001052",
+      "field": "interest",
+      "expected": "302.11",
+      "actual": "302.10",
+      "delta": "-0.01",
+      "golden_line": "ACCT001052         302.11        6344.21",
+      "actual_line": "ACCT001052         302.10        6344.20"
+    },
+    {
+      "account": "ACCT001053",
+      "field": "interest",
+      "expected": "2345.59",
+      "actual": "2345.58",
+      "delta": "-0.01",
+      "golden_line": "ACCT001053        2345.59       49257.29",
+      "actual_line": "ACCT001053        2345.58       49257.28"
+    },
+    {
+      "account": "ACCT001060",
+      "field": "interest",
+      "expected": "714.47",
+      "actual": "714.46",
+      "delta": "-0.01",
+      "golden_line": "ACCT001060         714.47       15003.77",
+      "actual_line": "ACCT001060         714.46       15003.76"
+    },
+    {
+      "account": "ACCT001063",
+      "field": "interest",
+      "expected": "1751.35",
+      "actual": "1751.34",
+      "delta": "-0.01",
+      "golden_line": "ACCT001063        1751.35       36778.25",
+      "actual_line": "ACCT001063        1751.34       36778.24"
+    },
+    {
+      "account": "ACCT001070",
+      "field": "interest",
+      "expected": "2123.93",
+      "actual": "2123.92",
+      "delta": "-0.01",
+      "golden_line": "ACCT001070        2123.93       44602.43",
+      "actual_line": "ACCT001070        2123.92       44602.42"
+    },
+    {
+      "account": "ACCT001071",
+      "field": "interest",
+      "expected": "692.59",
+      "actual": "692.58",
+      "delta": "-0.01",
+      "golden_line": "ACCT001071         692.59       14544.29",
+      "actual_line": "ACCT001071         692.58       14544.28"
+    },
+    {
+      "account": "ACCT001080",
+      "field": "interest",
+      "expected": "4029.81",
+      "actual": "4029.80",
+      "delta": "-0.01",
+      "golden_line": "ACCT001080        4029.81       84625.91",
+      "actual_line": "ACCT001080        4029.80       84625.90"
+    },
+    {
+      "account": "ACCT001081",
+      "field": "interest",
+      "expected": "705.03",
+      "actual": "705.02",
+      "delta": "-0.01",
+      "golden_line": "ACCT001081         705.03       14805.53",
+      "actual_line": "ACCT001081         705.02       14805.52"
+    },
+    {
+      "account": "ACCT001082",
+      "field": "interest",
+      "expected": "774.59",
+      "actual": "774.58",
+      "delta": "-0.01",
+      "golden_line": "ACCT001082         774.59       16266.29",
+      "actual_line": "ACCT001082         774.58       16266.28"
+    },
+    {
+      "account": "ACCT001083",
+      "field": "interest",
+      "expected": "4760.65",
+      "actual": "4760.64",
+      "delta": "-0.01",
+      "golden_line": "ACCT001083        4760.65       99973.55",
+      "actual_line": "ACCT001083        4760.64       99973.54"
+    },
+    {
+      "account": "ACCT001093",
+      "field": "interest",
+      "expected": "1876.13",
+      "actual": "1876.12",
+      "delta": "-0.01",
+      "golden_line": "ACCT001093        1876.13       39398.63",
+      "actual_line": "ACCT001093        1876.12       39398.62"
+    },
+    {
+      "account": "ACCT001100",
+      "field": "interest",
+      "expected": "3076.05",
+      "actual": "3076.04",
+      "delta": "-0.01",
+      "golden_line": "ACCT001100        3076.05       64596.95",
+      "actual_line": "ACCT001100        3076.04       64596.94"
+    },
+    {
+      "account": "ACCT001102",
+      "field": "interest",
+      "expected": "4796.21",
+      "actual": "4796.20",
+      "delta": "-0.01",
+      "golden_line": "ACCT001102        4796.21      100720.31",
+      "actual_line": "ACCT001102        4796.20      100720.30"
+    },
+    {
+      "account": "ACCT001103",
+      "field": "interest",
+      "expected": "3438.59",
+      "actual": "3438.58",
+      "delta": "-0.01",
+      "golden_line": "ACCT001103        3438.59       72210.29",
+      "actual_line": "ACCT001103        3438.58       72210.28"
+    },
+    {
+      "account": "ACCT001110",
+      "field": "interest",
+      "expected": "228.47",
+      "actual": "228.46",
+      "delta": "-0.01",
+      "golden_line": "ACCT001110         228.47        4797.77",
+      "actual_line": "ACCT001110         228.46        4797.76"
+    },
+    {
+      "account": "ACCT001111",
+      "field": "interest",
+      "expected": "4516.71",
+      "actual": "4516.70",
+      "delta": "-0.01",
+      "golden_line": "ACCT001111        4516.71       94850.81",
+      "actual_line": "ACCT001111        4516.70       94850.80"
+    },
+    {
+      "account": "ACCT001112",
+      "field": "interest",
+      "expected": "1981.97",
+      "actual": "1981.96",
+      "delta": "-0.01",
+      "golden_line": "ACCT001112        1981.97       41621.27",
+      "actual_line": "ACCT001112        1981.96       41621.26"
+    },
+    {
+      "account": "ACCT001122",
+      "field": "interest",
+      "expected": "3433.09",
+      "actual": "3433.08",
+      "delta": "-0.01",
+      "golden_line": "ACCT001122        3433.09       72094.79",
+      "actual_line": "ACCT001122        3433.08       72094.78"
+    },
+    {
+      "account": "ACCT001133",
+      "field": "interest",
+      "expected": "260.53",
+      "actual": "260.52",
+      "delta": "-0.01",
+      "golden_line": "ACCT001133         260.53        5471.03",
+      "actual_line": "ACCT001133         260.52        5471.02"
+    },
+    {
+      "account": "ACCT001140",
+      "field": "interest",
+      "expected": "771.73",
+      "actual": "771.72",
+      "delta": "-0.01",
+      "golden_line": "ACCT001140         771.73       16206.23",
+      "actual_line": "ACCT001140         771.72       16206.22"
+    },
+    {
+      "account": "ACCT001141",
+      "field": "interest",
+      "expected": "4299.91",
+      "actual": "4299.90",
+      "delta": "-0.01",
+      "golden_line": "ACCT001141        4299.91       90298.01",
+      "actual_line": "ACCT001141        4299.90       90298.00"
+    },
+    {
+      "account": "ACCT001142",
+      "field": "interest",
+      "expected": "3272.55",
+      "actual": "3272.54",
+      "delta": "-0.01",
+      "golden_line": "ACCT001142        3272.55       68723.45",
+      "actual_line": "ACCT001142        3272.54       68723.44"
+    },
+    {
+      "account": "ACCT001143",
+      "field": "interest",
+      "expected": "1920.81",
+      "actual": "1920.80",
+      "delta": "-0.01",
+      "golden_line": "ACCT001143        1920.81       40336.91",
+      "actual_line": "ACCT001143        1920.80       40336.90"
+    },
+    {
+      "account": "ACCT001150",
+      "field": "interest",
+      "expected": "3885.93",
+      "actual": "3885.92",
+      "delta": "-0.01",
+      "golden_line": "ACCT001150        3885.93       81604.43",
+      "actual_line": "ACCT001150        3885.92       81604.42"
+    },
+    {
+      "account": "ACCT001151",
+      "field": "interest",
+      "expected": "3013.31",
+      "actual": "3013.30",
+      "delta": "-0.01",
+      "golden_line": "ACCT001151        3013.31       63279.41",
+      "actual_line": "ACCT001151        3013.30       63279.40"
+    },
+    {
+      "account": "ACCT001160",
+      "field": "interest",
+      "expected": "4878.19",
+      "actual": "4878.18",
+      "delta": "-0.01",
+      "golden_line": "ACCT001160        4878.19      102441.89",
+      "actual_line": "ACCT001160        4878.18      102441.88"
+    },
+    {
+      "account": "ACCT001163",
+      "field": "interest",
+      "expected": "355.77",
+      "actual": "355.76",
+      "delta": "-0.01",
+      "golden_line": "ACCT001163         355.77        7471.07",
+      "actual_line": "ACCT001163         355.76        7471.06"
+    },
+    {
+      "account": "ACCT001171",
+      "field": "interest",
+      "expected": "2617.51",
+      "actual": "2617.50",
+      "delta": "-0.01",
+      "golden_line": "ACCT001171        2617.51       54967.61",
+      "actual_line": "ACCT001171        2617.50       54967.60"
+    },
+    {
+      "account": "ACCT001173",
+      "field": "interest",
+      "expected": "4778.17",
+      "actual": "4778.16",
+      "delta": "-0.01",
+      "golden_line": "ACCT001173        4778.17      100341.47",
+      "actual_line": "ACCT001173        4778.16      100341.46"
+    },
+    {
+      "account": "ACCT001182",
+      "field": "interest",
+      "expected": "3114.91",
+      "actual": "3114.90",
+      "delta": "-0.01",
+      "golden_line": "ACCT001182        3114.91       65413.01",
+      "actual_line": "ACCT001182        3114.90       65413.00"
+    },
+    {
+      "account": "ACCT001190",
+      "field": "interest",
+      "expected": "2993.09",
+      "actual": "2993.08",
+      "delta": "-0.01",
+      "golden_line": "ACCT001190        2993.09       62854.79",
+      "actual_line": "ACCT001190        2993.08       62854.78"
+    },
+    {
+      "account": "ACCT001192",
+      "field": "interest",
+      "expected": "958.21",
+      "actual": "958.20",
+      "delta": "-0.01",
+      "golden_line": "ACCT001192         958.21       20122.31",
+      "actual_line": "ACCT001192         958.20       20122.30"
+    },
+    {
+      "account": "ACCT001193",
+      "field": "interest",
+      "expected": "1671.95",
+      "actual": "1671.94",
+      "delta": "-0.01",
+      "golden_line": "ACCT001193        1671.95       35110.85",
+      "actual_line": "ACCT001193        1671.94       35110.84"
+    },
+    {
+      "account": "ACCT001200",
+      "field": "interest",
+      "expected": "94.61",
+      "actual": "94.60",
+      "delta": "-0.01",
+      "golden_line": "ACCT001200          94.61        1986.71",
+      "actual_line": "ACCT001200          94.60        1986.70"
+    },
+    {
+      "account": "ACCT001201",
+      "field": "interest",
+      "expected": "2676.21",
+      "actual": "2676.20",
+      "delta": "-0.01",
+      "golden_line": "ACCT001201        2676.21       56200.31",
+      "actual_line": "ACCT001201        2676.20       56200.30"
+    },
+    {
+      "account": "ACCT001202",
+      "field": "interest",
+      "expected": "64.21",
+      "actual": "64.20",
+      "delta": "-0.01",
+      "golden_line": "ACCT001202          64.21        1348.31",
+      "actual_line": "ACCT001202          64.20        1348.30"
+    },
+    {
+      "account": "ACCT001203",
+      "field": "interest",
+      "expected": "3654.17",
+      "actual": "3654.16",
+      "delta": "-0.01",
+      "golden_line": "ACCT001203        3654.17       76737.47",
+      "actual_line": "ACCT001203        3654.16       76737.46"
+    },
+    {
+      "account": "ACCT001210",
+      "field": "interest",
+      "expected": "2860.69",
+      "actual": "2860.68",
+      "delta": "-0.01",
+      "golden_line": "ACCT001210        2860.69       60074.39",
+      "actual_line": "ACCT001210        2860.68       60074.38"
+    },
+    {
+      "account": "ACCT001213",
+      "field": "interest",
+      "expected": "940.19",
+      "actual": "940.18",
+      "delta": "-0.01",
+      "golden_line": "ACCT001213         940.19       19743.89",
+      "actual_line": "ACCT001213         940.18       19743.88"
+    },
+    {
+      "account": "ACCT001221",
+      "field": "interest",
+      "expected": "3021.97",
+      "actual": "3021.96",
+      "delta": "-0.01",
+      "golden_line": "ACCT001221        3021.97       63461.27",
+      "actual_line": "ACCT001221        3021.96       63461.26"
+    },
+    {
+      "account": "ACCT001230",
+      "field": "interest",
+      "expected": "1932.71",
+      "actual": "1932.70",
+      "delta": "-0.01",
+      "golden_line": "ACCT001230        1932.71       40586.81",
+      "actual_line": "ACCT001230        1932.70       40586.80"
+    },
+    {
+      "account": "ACCT001231",
+      "field": "interest",
+      "expected": "162.71",
+      "actual": "162.70",
+      "delta": "-0.01",
+      "golden_line": "ACCT001231         162.71        3416.81",
+      "actual_line": "ACCT001231         162.70        3416.80"
+    },
+    {
+      "account": "ACCT001232",
+      "field": "interest",
+      "expected": "4894.39",
+      "actual": "4894.38",
+      "delta": "-0.01",
+      "golden_line": "ACCT001232        4894.39      102782.09",
+      "actual_line": "ACCT001232        4894.38      102782.08"
+    },
+    {
+      "account": "ACCT001240",
+      "field": "interest",
+      "expected": "4181.47",
+      "actual": "4181.46",
+      "delta": "-0.01",
+      "golden_line": "ACCT001240        4181.47       87810.77",
+      "actual_line": "ACCT001240        4181.46       87810.76"
+    },
+    {
+      "account": "ACCT001242",
+      "field": "interest",
+      "expected": "3138.29",
+      "actual": "3138.28",
+      "delta": "-0.01",
+      "golden_line": "ACCT001242        3138.29       65903.99",
+      "actual_line": "ACCT001242        3138.28       65903.98"
+    },
+    {
+      "account": "ACCT001250",
+      "field": "interest",
+      "expected": "1536.61",
+      "actual": "1536.60",
+      "delta": "-0.01",
+      "golden_line": "ACCT001250        1536.61       32268.71",
+      "actual_line": "ACCT001250        1536.60       32268.70"
+    },
+    {
+      "account": "ACCT001251",
+      "field": "interest",
+      "expected": "4481.45",
+      "actual": "4481.44",
+      "delta": "-0.01",
+      "golden_line": "ACCT001251        4481.45       94110.35",
+      "actual_line": "ACCT001251        4481.44       94110.34"
+    },
+    {
+      "account": "ACCT001253",
+      "field": "interest",
+      "expected": "3298.07",
+      "actual": "3298.06",
+      "delta": "-0.01",
+      "golden_line": "ACCT001253        3298.07       69259.37",
+      "actual_line": "ACCT001253        3298.06       69259.36"
+    },
+    {
+      "account": "ACCT001262",
+      "field": "interest",
+      "expected": "3221.53",
+      "actual": "3221.52",
+      "delta": "-0.01",
+      "golden_line": "ACCT001262        3221.53       67652.03",
+      "actual_line": "ACCT001262        3221.52       67652.02"
+    },
+    {
+      "account": "ACCT001273",
+      "field": "interest",
+      "expected": "4554.37",
+      "actual": "4554.36",
+      "delta": "-0.01",
+      "golden_line": "ACCT001273        4554.37       95641.67",
+      "actual_line": "ACCT001273        4554.36       95641.66"
+    },
+    {
+      "account": "ACCT001280",
+      "field": "interest",
+      "expected": "1695.81",
+      "actual": "1695.80",
+      "delta": "-0.01",
+      "golden_line": "ACCT001280        1695.81       35611.91",
+      "actual_line": "ACCT001280        1695.80       35611.90"
+    },
+    {
+      "account": "ACCT001281",
+      "field": "interest",
+      "expected": "3827.79",
+      "actual": "3827.78",
+      "delta": "-0.01",
+      "golden_line": "ACCT001281        3827.79       80383.49",
+      "actual_line": "ACCT001281        3827.78       80383.48"
+    },
+    {
+      "account": "ACCT001283",
+      "field": "interest",
+      "expected": "1873.47",
+      "actual": "1873.46",
+      "delta": "-0.01",
+      "golden_line": "ACCT001283        1873.47       39342.77",
+      "actual_line": "ACCT001283        1873.46       39342.76"
+    },
+    {
+      "account": "ACCT001290",
+      "field": "interest",
+      "expected": "1268.73",
+      "actual": "1268.72",
+      "delta": "-0.01",
+      "golden_line": "ACCT001290        1268.73       26643.23",
+      "actual_line": "ACCT001290        1268.72       26643.22"
+    },
+    {
+      "account": "ACCT001293",
+      "field": "interest",
+      "expected": "1469.73",
+      "actual": "1469.72",
+      "delta": "-0.01",
+      "golden_line": "ACCT001293        1469.73       30864.23",
+      "actual_line": "ACCT001293        1469.72       30864.22"
+    },
+    {
+      "account": "ACCT001300",
+      "field": "interest",
+      "expected": "89.41",
+      "actual": "89.40",
+      "delta": "-0.01",
+      "golden_line": "ACCT001300          89.41        1877.51",
+      "actual_line": "ACCT001300          89.40        1877.50"
+    },
+    {
+      "account": "ACCT001301",
+      "field": "interest",
+      "expected": "4315.01",
+      "actual": "4315.00",
+      "delta": "-0.01",
+      "golden_line": "ACCT001301        4315.01       90615.11",
+      "actual_line": "ACCT001301        4315.00       90615.10"
+    },
+    {
+      "account": "ACCT001311",
+      "field": "interest",
+      "expected": "54.49",
+      "actual": "54.48",
+      "delta": "-0.01",
+      "golden_line": "ACCT001311          54.49        1144.19",
+      "actual_line": "ACCT001311          54.48        1144.18"
+    },
+    {
+      "account": "ACCT001312",
+      "field": "interest",
+      "expected": "4576.59",
+      "actual": "4576.58",
+      "delta": "-0.01",
+      "golden_line": "ACCT001312        4576.59       96108.29",
+      "actual_line": "ACCT001312        4576.58       96108.28"
+    },
+    {
+      "account": "ACCT001313",
+      "field": "interest",
+      "expected": "3694.25",
+      "actual": "3694.24",
+      "delta": "-0.01",
+      "golden_line": "ACCT001313        3694.25       77579.15",
+      "actual_line": "ACCT001313        3694.24       77579.14"
+    },
+    {
+      "account": "ACCT001321",
+      "field": "interest",
+      "expected": "1244.43",
+      "actual": "1244.42",
+      "delta": "-0.01",
+      "golden_line": "ACCT001321        1244.43       26132.93",
+      "actual_line": "ACCT001321        1244.42       26132.92"
+    },
+    {
+      "account": "ACCT001322",
+      "field": "interest",
+      "expected": "610.47",
+      "actual": "610.46",
+      "delta": "-0.01",
+      "golden_line": "ACCT001322         610.47       12819.77",
+      "actual_line": "ACCT001322         610.46       12819.76"
+    },
+    {
+      "account": "ACCT001332",
+      "field": "interest",
+      "expected": "3711.43",
+      "actual": "3711.42",
+      "delta": "-0.01",
+      "golden_line": "ACCT001332        3711.43       77939.93",
+      "actual_line": "ACCT001332        3711.42       77939.92"
+    },
+    {
+      "account": "ACCT001333",
+      "field": "interest",
+      "expected": "3782.55",
+      "actual": "3782.54",
+      "delta": "-0.01",
+      "golden_line": "ACCT001333        3782.55       79433.45",
+      "actual_line": "ACCT001333        3782.54       79433.44"
+    },
+    {
+      "account": "ACCT001350",
+      "field": "interest",
+      "expected": "3975.21",
+      "actual": "3975.20",
+      "delta": "-0.01",
+      "golden_line": "ACCT001350        3975.21       83479.31",
+      "actual_line": "ACCT001350        3975.20       83479.30"
+    },
+    {
+      "account": "ACCT001352",
+      "field": "interest",
+      "expected": "3422.83",
+      "actual": "3422.82",
+      "delta": "-0.01",
+      "golden_line": "ACCT001352        3422.83       71879.33",
+      "actual_line": "ACCT001352        3422.82       71879.32"
+    },
+    {
+      "account": "ACCT001360",
+      "field": "interest",
+      "expected": "2839.03",
+      "actual": "2839.02",
+      "delta": "-0.01",
+      "golden_line": "ACCT001360        2839.03       59619.53",
+      "actual_line": "ACCT001360        2839.02       59619.52"
+    },
+    {
+      "account": "ACCT001361",
+      "field": "interest",
+      "expected": "2107.13",
+      "actual": "2107.12",
+      "delta": "-0.01",
+      "golden_line": "ACCT001361        2107.13       44249.63",
+      "actual_line": "ACCT001361        2107.12       44249.62"
+    },
+    {
+      "account": "ACCT001370",
+      "field": "interest",
+      "expected": "213.23",
+      "actual": "213.22",
+      "delta": "-0.01",
+      "golden_line": "ACCT001370         213.23        4477.73",
+      "actual_line": "ACCT001370         213.22        4477.72"
+    },
+    {
+      "account": "ACCT001390",
+      "field": "interest",
+      "expected": "3206.47",
+      "actual": "3206.46",
+      "delta": "-0.01",
+      "golden_line": "ACCT001390        3206.47       67335.77",
+      "actual_line": "ACCT001390        3206.46       67335.76"
+    },
+    {
+      "account": "ACCT001391",
+      "field": "interest",
+      "expected": "2473.01",
+      "actual": "2473.00",
+      "delta": "-0.01",
+      "golden_line": "ACCT001391        2473.01       51933.11",
+      "actual_line": "ACCT001391        2473.00       51933.10"
+    },
+    {
+      "account": "ACCT001392",
+      "field": "interest",
+      "expected": "1572.81",
+      "actual": "1572.80",
+      "delta": "-0.01",
+      "golden_line": "ACCT001392        1572.81       33028.91",
+      "actual_line": "ACCT001392        1572.80       33028.90"
+    },
+    {
+      "account": "ACCT001393",
+      "field": "interest",
+      "expected": "913.33",
+      "actual": "913.32",
+      "delta": "-0.01",
+      "golden_line": "ACCT001393         913.33       19179.83",
+      "actual_line": "ACCT001393         913.32       19179.82"
+    },
+    {
+      "account": "ACCT001413",
+      "field": "interest",
+      "expected": "4414.17",
+      "actual": "4414.16",
+      "delta": "-0.01",
+      "golden_line": "ACCT001413        4414.17       92697.47",
+      "actual_line": "ACCT001413        4414.16       92697.46"
+    },
+    {
+      "account": "ACCT001420",
+      "field": "interest",
+      "expected": "1885.03",
+      "actual": "1885.02",
+      "delta": "-0.01",
+      "golden_line": "ACCT001420        1885.03       39585.53",
+      "actual_line": "ACCT001420        1885.02       39585.52"
+    },
+    {
+      "account": "ACCT001422",
+      "field": "interest",
+      "expected": "1469.83",
+      "actual": "1469.82",
+      "delta": "-0.01",
+      "golden_line": "ACCT001422        1469.83       30866.33",
+      "actual_line": "ACCT001422        1469.82       30866.32"
+    },
+    {
+      "account": "ACCT001432",
+      "field": "interest",
+      "expected": "2883.65",
+      "actual": "2883.64",
+      "delta": "-0.01",
+      "golden_line": "ACCT001432        2883.65       60556.55",
+      "actual_line": "ACCT001432        2883.64       60556.54"
+    },
+    {
+      "account": "ACCT001433",
+      "field": "interest",
+      "expected": "1421.17",
+      "actual": "1421.16",
+      "delta": "-0.01",
+      "golden_line": "ACCT001433        1421.17       29844.47",
+      "actual_line": "ACCT001433        1421.16       29844.46"
+    },
+    {
+      "account": "ACCT001443",
+      "field": "interest",
+      "expected": "3732.05",
+      "actual": "3732.04",
+      "delta": "-0.01",
+      "golden_line": "ACCT001443        3732.05       78372.95",
+      "actual_line": "ACCT001443        3732.04       78372.94"
+    },
+    {
+      "account": "ACCT001450",
+      "field": "interest",
+      "expected": "165.79",
+      "actual": "165.78",
+      "delta": "-0.01",
+      "golden_line": "ACCT001450         165.79        3481.49",
+      "actual_line": "ACCT001450         165.78        3481.48"
+    },
+    {
+      "account": "ACCT001452",
+      "field": "interest",
+      "expected": "4864.39",
+      "actual": "4864.38",
+      "delta": "-0.01",
+      "golden_line": "ACCT001452        4864.39      102152.09",
+      "actual_line": "ACCT001452        4864.38      102152.08"
+    },
+    {
+      "account": "ACCT001462",
+      "field": "interest",
+      "expected": "2958.93",
+      "actual": "2958.92",
+      "delta": "-0.01",
+      "golden_line": "ACCT001462        2958.93       62137.43",
+      "actual_line": "ACCT001462        2958.92       62137.42"
+    },
+    {
+      "account": "ACCT001463",
+      "field": "interest",
+      "expected": "2288.37",
+      "actual": "2288.36",
+      "delta": "-0.01",
+      "golden_line": "ACCT001463        2288.37       48055.67",
+      "actual_line": "ACCT001463        2288.36       48055.66"
+    },
+    {
+      "account": "ACCT001470",
+      "field": "interest",
+      "expected": "1623.35",
+      "actual": "1623.34",
+      "delta": "-0.01",
+      "golden_line": "ACCT001470        1623.35       34090.25",
+      "actual_line": "ACCT001470        1623.34       34090.24"
+    },
+    {
+      "account": "ACCT001472",
+      "field": "interest",
+      "expected": "3594.99",
+      "actual": "3594.98",
+      "delta": "-0.01",
+      "golden_line": "ACCT001472        3594.99       75494.69",
+      "actual_line": "ACCT001472        3594.98       75494.68"
+    },
+    {
+      "account": "ACCT001480",
+      "field": "interest",
+      "expected": "3622.73",
+      "actual": "3622.72",
+      "delta": "-0.01",
+      "golden_line": "ACCT001480        3622.73       76077.23",
+      "actual_line": "ACCT001480        3622.72       76077.22"
+    },
+    {
+      "account": "ACCT001483",
+      "field": "interest",
+      "expected": "788.45",
+      "actual": "788.44",
+      "delta": "-0.01",
+      "golden_line": "ACCT001483         788.45       16557.35",
+      "actual_line": "ACCT001483         788.44       16557.34"
+    },
+    {
+      "account": "ACCT001502",
+      "field": "interest",
+      "expected": "2454.13",
+      "actual": "2454.12",
+      "delta": "-0.01",
+      "golden_line": "ACCT001502        2454.13       51536.63",
+      "actual_line": "ACCT001502        2454.12       51536.62"
+    },
+    {
+      "account": "ACCT001510",
+      "field": "interest",
+      "expected": "1588.99",
+      "actual": "1588.98",
+      "delta": "-0.01",
+      "golden_line": "ACCT001510        1588.99       33368.69",
+      "actual_line": "ACCT001510        1588.98       33368.68"
+    },
+    {
+      "account": "ACCT001511",
+      "field": "interest",
+      "expected": "3097.51",
+      "actual": "3097.50",
+      "delta": "-0.01",
+      "golden_line": "ACCT001511        3097.51       65047.61",
+      "actual_line": "ACCT001511        3097.50       65047.60"
+    },
+    {
+      "account": "ACCT001512",
+      "field": "interest",
+      "expected": "1118.41",
+      "actual": "1118.40",
+      "delta": "-0.01",
+      "golden_line": "ACCT001512        1118.41       23486.51",
+      "actual_line": "ACCT001512        1118.40       23486.50"
+    },
+    {
+      "account": "ACCT001520",
+      "field": "interest",
+      "expected": "4546.81",
+      "actual": "4546.80",
+      "delta": "-0.01",
+      "golden_line": "ACCT001520        4546.81       95482.91",
+      "actual_line": "ACCT001520        4546.80       95482.90"
+    },
+    {
+      "account": "ACCT001522",
+      "field": "interest",
+      "expected": "4584.79",
+      "actual": "4584.78",
+      "delta": "-0.01",
+      "golden_line": "ACCT001522        4584.79       96280.49",
+      "actual_line": "ACCT001522        4584.78       96280.48"
+    },
+    {
+      "account": "ACCT001531",
+      "field": "interest",
+      "expected": "2039.19",
+      "actual": "2039.18",
+      "delta": "-0.01",
+      "golden_line": "ACCT001531        2039.19       42822.89",
+      "actual_line": "ACCT001531        2039.18       42822.88"
+    },
+    {
+      "account": "ACCT001540",
+      "field": "interest",
+      "expected": "3880.17",
+      "actual": "3880.16",
+      "delta": "-0.01",
+      "golden_line": "ACCT001540        3880.17       81483.47",
+      "actual_line": "ACCT001540        3880.16       81483.46"
+    },
+    {
+      "account": "ACCT001543",
+      "field": "interest",
+      "expected": "3857.01",
+      "actual": "3857.00",
+      "delta": "-0.01",
+      "golden_line": "ACCT001543        3857.01       80997.11",
+      "actual_line": "ACCT001543        3857.00       80997.10"
+    },
+    {
+      "account": "ACCT001551",
+      "field": "interest",
+      "expected": "69.23",
+      "actual": "69.22",
+      "delta": "-0.01",
+      "golden_line": "ACCT001551          69.23        1453.73",
+      "actual_line": "ACCT001551          69.22        1453.72"
+    },
+    {
+      "account": "ACCT001560",
+      "field": "interest",
+      "expected": "774.89",
+      "actual": "774.88",
+      "delta": "-0.01",
+      "golden_line": "ACCT001560         774.89       16272.59",
+      "actual_line": "ACCT001560         774.88       16272.58"
+    },
+    {
+      "account": "ACCT001561",
+      "field": "interest",
+      "expected": "3839.67",
+      "actual": "3839.66",
+      "delta": "-0.01",
+      "golden_line": "ACCT001561        3839.67       80632.97",
+      "actual_line": "ACCT001561        3839.66       80632.96"
+    },
+    {
+      "account": "ACCT001571",
+      "field": "interest",
+      "expected": "936.11",
+      "actual": "936.10",
+      "delta": "-0.01",
+      "golden_line": "ACCT001571         936.11       19658.21",
+      "actual_line": "ACCT001571         936.10       19658.20"
+    },
+    {
+      "account": "ACCT001572",
+      "field": "interest",
+      "expected": "2807.03",
+      "actual": "2807.02",
+      "delta": "-0.01",
+      "golden_line": "ACCT001572        2807.03       58947.53",
+      "actual_line": "ACCT001572        2807.02       58947.52"
+    },
+    {
+      "account": "ACCT001573",
+      "field": "interest",
+      "expected": "2026.77",
+      "actual": "2026.76",
+      "delta": "-0.01",
+      "golden_line": "ACCT001573        2026.77       42562.07",
+      "actual_line": "ACCT001573        2026.76       42562.06"
+    },
+    {
+      "account": "ACCT001580",
+      "field": "interest",
+      "expected": "2131.97",
+      "actual": "2131.96",
+      "delta": "-0.01",
+      "golden_line": "ACCT001580        2131.97       44771.27",
+      "actual_line": "ACCT001580        2131.96       44771.26"
+    },
+    {
+      "account": "ACCT001591",
+      "field": "interest",
+      "expected": "1596.73",
+      "actual": "1596.72",
+      "delta": "-0.01",
+      "golden_line": "ACCT001591        1596.73       33531.23",
+      "actual_line": "ACCT001591        1596.72       33531.22"
+    },
+    {
+      "account": "ACCT001592",
+      "field": "interest",
+      "expected": "52.71",
+      "actual": "52.70",
+      "delta": "-0.01",
+      "golden_line": "ACCT001592          52.71        1106.81",
+      "actual_line": "ACCT001592          52.70        1106.80"
+    },
+    {
+      "account": "ACCT001600",
+      "field": "interest",
+      "expected": "1621.49",
+      "actual": "1621.48",
+      "delta": "-0.01",
+      "golden_line": "ACCT001600        1621.49       34051.19",
+      "actual_line": "ACCT001600        1621.48       34051.18"
+    },
+    {
+      "account": "ACCT001602",
+      "field": "interest",
+      "expected": "2914.95",
+      "actual": "2914.94",
+      "delta": "-0.01",
+      "golden_line": "ACCT001602        2914.95       61213.85",
+      "actual_line": "ACCT001602        2914.94       61213.84"
+    },
+    {
+      "account": "ACCT001603",
+      "field": "interest",
+      "expected": "1336.65",
+      "actual": "1336.64",
+      "delta": "-0.01",
+      "golden_line": "ACCT001603        1336.65       28069.55",
+      "actual_line": "ACCT001603        1336.64       28069.54"
+    },
+    {
+      "account": "ACCT001610",
+      "field": "interest",
+      "expected": "1748.91",
+      "actual": "1748.90",
+      "delta": "-0.01",
+      "golden_line": "ACCT001610        1748.91       36727.01",
+      "actual_line": "ACCT001610        1748.90       36727.00"
+    },
+    {
+      "account": "ACCT001612",
+      "field": "interest",
+      "expected": "2723.13",
+      "actual": "2723.12",
+      "delta": "-0.01",
+      "golden_line": "ACCT001612        2723.13       57185.63",
+      "actual_line": "ACCT001612        2723.12       57185.62"
+    },
+    {
+      "account": "ACCT001621",
+      "field": "interest",
+      "expected": "4040.61",
+      "actual": "4040.60",
+      "delta": "-0.01",
+      "golden_line": "ACCT001621        4040.61       84852.71",
+      "actual_line": "ACCT001621        4040.60       84852.70"
+    },
+    {
+      "account": "ACCT001622",
+      "field": "interest",
+      "expected": "1099.47",
+      "actual": "1099.46",
+      "delta": "-0.01",
+      "golden_line": "ACCT001622        1099.47       23088.77",
+      "actual_line": "ACCT001622        1099.46       23088.76"
+    },
+    {
+      "account": "ACCT001630",
+      "field": "interest",
+      "expected": "2844.21",
+      "actual": "2844.20",
+      "delta": "-0.01",
+      "golden_line": "ACCT001630        2844.21       59728.31",
+      "actual_line": "ACCT001630        2844.20       59728.30"
+    },
+    {
+      "account": "ACCT001632",
+      "field": "interest",
+      "expected": "1850.77",
+      "actual": "1850.76",
+      "delta": "-0.01",
+      "golden_line": "ACCT001632        1850.77       38866.07",
+      "actual_line": "ACCT001632        1850.76       38866.06"
+    },
+    {
+      "account": "ACCT001633",
+      "field": "interest",
+      "expected": "2447.03",
+      "actual": "2447.02",
+      "delta": "-0.01",
+      "golden_line": "ACCT001633        2447.03       51387.53",
+      "actual_line": "ACCT001633        2447.02       51387.52"
+    },
+    {
+      "account": "ACCT001651",
+      "field": "interest",
+      "expected": "2217.05",
+      "actual": "2217.04",
+      "delta": "-0.01",
+      "golden_line": "ACCT001651        2217.05       46557.95",
+      "actual_line": "ACCT001651        2217.04       46557.94"
+    },
+    {
+      "account": "ACCT001660",
+      "field": "interest",
+      "expected": "1328.83",
+      "actual": "1328.82",
+      "delta": "-0.01",
+      "golden_line": "ACCT001660        1328.83       27905.33",
+      "actual_line": "ACCT001660        1328.82       27905.32"
+    },
+    {
+      "account": "ACCT001662",
+      "field": "interest",
+      "expected": "703.55",
+      "actual": "703.54",
+      "delta": "-0.01",
+      "golden_line": "ACCT001662         703.55       14774.45",
+      "actual_line": "ACCT001662         703.54       14774.44"
+    },
+    {
+      "account": "ACCT001670",
+      "field": "interest",
+      "expected": "3975.43",
+      "actual": "3975.42",
+      "delta": "-0.01",
+      "golden_line": "ACCT001670        3975.43       83483.93",
+      "actual_line": "ACCT001670        3975.42       83483.92"
+    },
+    {
+      "account": "ACCT001672",
+      "field": "interest",
+      "expected": "1367.23",
+      "actual": "1367.22",
+      "delta": "-0.01",
+      "golden_line": "ACCT001672        1367.23       28711.73",
+      "actual_line": "ACCT001672        1367.22       28711.72"
+    },
+    {
+      "account": "ACCT001673",
+      "field": "interest",
+      "expected": "1254.27",
+      "actual": "1254.26",
+      "delta": "-0.01",
+      "golden_line": "ACCT001673        1254.27       26339.57",
+      "actual_line": "ACCT001673        1254.26       26339.56"
+    },
+    {
+      "account": "ACCT001682",
+      "field": "interest",
+      "expected": "2834.49",
+      "actual": "2834.48",
+      "delta": "-0.01",
+      "golden_line": "ACCT001682        2834.49       59524.19",
+      "actual_line": "ACCT001682        2834.48       59524.18"
+    },
+    {
+      "account": "ACCT001690",
+      "field": "interest",
+      "expected": "684.93",
+      "actual": "684.92",
+      "delta": "-0.01",
+      "golden_line": "ACCT001690         684.93       14383.43",
+      "actual_line": "ACCT001690         684.92       14383.42"
+    },
+    {
+      "account": "ACCT001691",
+      "field": "interest",
+      "expected": "2240.09",
+      "actual": "2240.08",
+      "delta": "-0.01",
+      "golden_line": "ACCT001691        2240.09       47041.79",
+      "actual_line": "ACCT001691        2240.08       47041.78"
+    },
+    {
+      "account": "ACCT001692",
+      "field": "interest",
+      "expected": "4108.37",
+      "actual": "4108.36",
+      "delta": "-0.01",
+      "golden_line": "ACCT001692        4108.37       86275.67",
+      "actual_line": "ACCT001692        4108.36       86275.66"
+    },
+    {
+      "account": "ACCT001701",
+      "field": "interest",
+      "expected": "3618.63",
+      "actual": "3618.62",
+      "delta": "-0.01",
+      "golden_line": "ACCT001701        3618.63       75991.13",
+      "actual_line": "ACCT001701        3618.62       75991.12"
+    },
+    {
+      "account": "ACCT001703",
+      "field": "interest",
+      "expected": "3071.63",
+      "actual": "3071.62",
+      "delta": "-0.01",
+      "golden_line": "ACCT001703        3071.63       64504.13",
+      "actual_line": "ACCT001703        3071.62       64504.12"
+    },
+    {
+      "account": "ACCT001710",
+      "field": "interest",
+      "expected": "3490.09",
+      "actual": "3490.08",
+      "delta": "-0.01",
+      "golden_line": "ACCT001710        3490.09       73291.79",
+      "actual_line": "ACCT001710        3490.08       73291.78"
+    },
+    {
+      "account": "ACCT001711",
+      "field": "interest",
+      "expected": "3132.23",
+      "actual": "3132.22",
+      "delta": "-0.01",
+      "golden_line": "ACCT001711        3132.23       65776.73",
+      "actual_line": "ACCT001711        3132.22       65776.72"
+    },
+    {
+      "account": "ACCT001712",
+      "field": "interest",
+      "expected": "2327.05",
+      "actual": "2327.04",
+      "delta": "-0.01",
+      "golden_line": "ACCT001712        2327.05       48867.95",
+      "actual_line": "ACCT001712        2327.04       48867.94"
+    },
+    {
+      "account": "ACCT001721",
+      "field": "interest",
+      "expected": "1161.73",
+      "actual": "1161.72",
+      "delta": "-0.01",
+      "golden_line": "ACCT001721        1161.73       24396.23",
+      "actual_line": "ACCT001721        1161.72       24396.22"
+    },
+    {
+      "account": "ACCT001723",
+      "field": "interest",
+      "expected": "4405.73",
+      "actual": "4405.72",
+      "delta": "-0.01",
+      "golden_line": "ACCT001723        4405.73       92520.23",
+      "actual_line": "ACCT001723        4405.72       92520.22"
+    },
+    {
+      "account": "ACCT001742",
+      "field": "interest",
+      "expected": "4207.07",
+      "actual": "4207.06",
+      "delta": "-0.01",
+      "golden_line": "ACCT001742        4207.07       88348.37",
+      "actual_line": "ACCT001742        4207.06       88348.36"
+    },
+    {
+      "account": "ACCT001750",
+      "field": "interest",
+      "expected": "1979.39",
+      "actual": "1979.38",
+      "delta": "-0.01",
+      "golden_line": "ACCT001750        1979.39       41567.09",
+      "actual_line": "ACCT001750        1979.38       41567.08"
+    },
+    {
+      "account": "ACCT001752",
+      "field": "interest",
+      "expected": "3247.09",
+      "actual": "3247.08",
+      "delta": "-0.01",
+      "golden_line": "ACCT001752        3247.09       68188.79",
+      "actual_line": "ACCT001752        3247.08       68188.78"
+    },
+    {
+      "account": "ACCT001753",
+      "field": "interest",
+      "expected": "2963.97",
+      "actual": "2963.96",
+      "delta": "-0.01",
+      "golden_line": "ACCT001753        2963.97       62243.27",
+      "actual_line": "ACCT001753        2963.96       62243.26"
+    },
+    {
+      "account": "ACCT001763",
+      "field": "interest",
+      "expected": "493.93",
+      "actual": "493.92",
+      "delta": "-0.01",
+      "golden_line": "ACCT001763         493.93       10372.43",
+      "actual_line": "ACCT001763         493.92       10372.42"
+    },
+    {
+      "account": "ACCT001771",
+      "field": "interest",
+      "expected": "3434.27",
+      "actual": "3434.26",
+      "delta": "-0.01",
+      "golden_line": "ACCT001771        3434.27       72119.57",
+      "actual_line": "ACCT001771        3434.26       72119.56"
+    },
+    {
+      "account": "ACCT001772",
+      "field": "interest",
+      "expected": "268.09",
+      "actual": "268.08",
+      "delta": "-0.01",
+      "golden_line": "ACCT001772         268.09        5629.79",
+      "actual_line": "ACCT001772         268.08        5629.78"
+    },
+    {
+      "account": "ACCT001783",
+      "field": "interest",
+      "expected": "856.03",
+      "actual": "856.02",
+      "delta": "-0.01",
+      "golden_line": "ACCT001783         856.03       17976.53",
+      "actual_line": "ACCT001783         856.02       17976.52"
+    },
+    {
+      "account": "ACCT001790",
+      "field": "interest",
+      "expected": "4518.45",
+      "actual": "4518.44",
+      "delta": "-0.01",
+      "golden_line": "ACCT001790        4518.45       94887.35",
+      "actual_line": "ACCT001790        4518.44       94887.34"
+    },
+    {
+      "account": "ACCT001791",
+      "field": "interest",
+      "expected": "2624.77",
+      "actual": "2624.76",
+      "delta": "-0.01",
+      "golden_line": "ACCT001791        2624.77       55120.07",
+      "actual_line": "ACCT001791        2624.76       55120.06"
+    },
+    {
+      "account": "ACCT001792",
+      "field": "interest",
+      "expected": "3363.91",
+      "actual": "3363.90",
+      "delta": "-0.01",
+      "golden_line": "ACCT001792        3363.91       70642.01",
+      "actual_line": "ACCT001792        3363.90       70642.00"
+    },
+    {
+      "account": "ACCT001793",
+      "field": "interest",
+      "expected": "3297.89",
+      "actual": "3297.88",
+      "delta": "-0.01",
+      "golden_line": "ACCT001793        3297.89       69255.59",
+      "actual_line": "ACCT001793        3297.88       69255.58"
+    },
+    {
+      "account": "ACCT001800",
+      "field": "interest",
+      "expected": "2918.83",
+      "actual": "2918.82",
+      "delta": "-0.01",
+      "golden_line": "ACCT001800        2918.83       61295.33",
+      "actual_line": "ACCT001800        2918.82       61295.32"
+    },
+    {
+      "account": "ACCT001811",
+      "field": "interest",
+      "expected": "3394.93",
+      "actual": "3394.92",
+      "delta": "-0.01",
+      "golden_line": "ACCT001811        3394.93       71293.43",
+      "actual_line": "ACCT001811        3394.92       71293.42"
+    },
+    {
+      "account": "ACCT001813",
+      "field": "interest",
+      "expected": "3214.61",
+      "actual": "3214.60",
+      "delta": "-0.01",
+      "golden_line": "ACCT001813        3214.61       67506.71",
+      "actual_line": "ACCT001813        3214.60       67506.70"
+    },
+    {
+      "account": "ACCT001822",
+      "field": "interest",
+      "expected": "4493.37",
+      "actual": "4493.36",
+      "delta": "-0.01",
+      "golden_line": "ACCT001822        4493.37       94360.67",
+      "actual_line": "ACCT001822        4493.36       94360.66"
+    },
+    {
+      "account": "ACCT001830",
+      "field": "interest",
+      "expected": "2179.33",
+      "actual": "2179.32",
+      "delta": "-0.01",
+      "golden_line": "ACCT001830        2179.33       45765.83",
+      "actual_line": "ACCT001830        2179.32       45765.82"
+    },
+    {
+      "account": "ACCT001832",
+      "field": "interest",
+      "expected": "1830.83",
+      "actual": "1830.82",
+      "delta": "-0.01",
+      "golden_line": "ACCT001832        1830.83       38447.33",
+      "actual_line": "ACCT001832        1830.82       38447.32"
+    },
+    {
+      "account": "ACCT001840",
+      "field": "interest",
+      "expected": "2135.29",
+      "actual": "2135.28",
+      "delta": "-0.01",
+      "golden_line": "ACCT001840        2135.29       44840.99",
+      "actual_line": "ACCT001840        2135.28       44840.98"
+    },
+    {
+      "account": "ACCT001841",
+      "field": "interest",
+      "expected": "1757.21",
+      "actual": "1757.20",
+      "delta": "-0.01",
+      "golden_line": "ACCT001841        1757.21       36901.31",
+      "actual_line": "ACCT001841        1757.20       36901.30"
+    },
+    {
+      "account": "ACCT001842",
+      "field": "interest",
+      "expected": "4697.67",
+      "actual": "4697.66",
+      "delta": "-0.01",
+      "golden_line": "ACCT001842        4697.67       98650.97",
+      "actual_line": "ACCT001842        4697.66       98650.96"
+    },
+    {
+      "account": "ACCT001843",
+      "field": "interest",
+      "expected": "4442.71",
+      "actual": "4442.70",
+      "delta": "-0.01",
+      "golden_line": "ACCT001843        4442.71       93296.81",
+      "actual_line": "ACCT001843        4442.70       93296.80"
+    },
+    {
+      "account": "ACCT001852",
+      "field": "interest",
+      "expected": "2033.05",
+      "actual": "2033.04",
+      "delta": "-0.01",
+      "golden_line": "ACCT001852        2033.05       42693.95",
+      "actual_line": "ACCT001852        2033.04       42693.94"
+    },
+    {
+      "account": "ACCT001863",
+      "field": "interest",
+      "expected": "945.61",
+      "actual": "945.60",
+      "delta": "-0.01",
+      "golden_line": "ACCT001863         945.61       19857.71",
+      "actual_line": "ACCT001863         945.60       19857.70"
+    },
+    {
+      "account": "ACCT001872",
+      "field": "interest",
+      "expected": "2988.75",
+      "actual": "2988.74",
+      "delta": "-0.01",
+      "golden_line": "ACCT001872        2988.75       62763.65",
+      "actual_line": "ACCT001872        2988.74       62763.64"
+    },
+    {
+      "account": "ACCT001893",
+      "field": "interest",
+      "expected": "661.11",
+      "actual": "661.10",
+      "delta": "-0.01",
+      "golden_line": "ACCT001893         661.11       13883.21",
+      "actual_line": "ACCT001893         661.10       13883.20"
+    },
+    {
+      "account": "ACCT001900",
+      "field": "interest",
+      "expected": "2346.01",
+      "actual": "2346.00",
+      "delta": "-0.01",
+      "golden_line": "ACCT001900        2346.01       49266.11",
+      "actual_line": "ACCT001900        2346.00       49266.10"
+    },
+    {
+      "account": "ACCT001902",
+      "field": "interest",
+      "expected": "1760.55",
+      "actual": "1760.54",
+      "delta": "-0.01",
+      "golden_line": "ACCT001902        1760.55       36971.45",
+      "actual_line": "ACCT001902        1760.54       36971.44"
+    },
+    {
+      "account": "ACCT001910",
+      "field": "interest",
+      "expected": "3058.17",
+      "actual": "3058.16",
+      "delta": "-0.01",
+      "golden_line": "ACCT001910        3058.17       64221.47",
+      "actual_line": "ACCT001910        3058.16       64221.46"
+    },
+    {
+      "account": "ACCT001911",
+      "field": "interest",
+      "expected": "3835.93",
+      "actual": "3835.92",
+      "delta": "-0.01",
+      "golden_line": "ACCT001911        3835.93       80554.43",
+      "actual_line": "ACCT001911        3835.92       80554.42"
+    },
+    {
+      "account": "ACCT001930",
+      "field": "interest",
+      "expected": "1698.37",
+      "actual": "1698.36",
+      "delta": "-0.01",
+      "golden_line": "ACCT001930        1698.37       35665.67",
+      "actual_line": "ACCT001930        1698.36       35665.66"
+    },
+    {
+      "account": "ACCT001931",
+      "field": "interest",
+      "expected": "1137.01",
+      "actual": "1137.00",
+      "delta": "-0.01",
+      "golden_line": "ACCT001931        1137.01       23877.11",
+      "actual_line": "ACCT001931        1137.00       23877.10"
+    },
+    {
+      "account": "ACCT001932",
+      "field": "interest",
+      "expected": "3413.63",
+      "actual": "3413.62",
+      "delta": "-0.01",
+      "golden_line": "ACCT001932        3413.63       71686.13",
+      "actual_line": "ACCT001932        3413.62       71686.12"
+    },
+    {
+      "account": "ACCT001933",
+      "field": "interest",
+      "expected": "1683.43",
+      "actual": "1683.42",
+      "delta": "-0.01",
+      "golden_line": "ACCT001933        1683.43       35351.93",
+      "actual_line": "ACCT001933        1683.42       35351.92"
+    },
+    {
+      "account": "ACCT001950",
+      "field": "interest",
+      "expected": "1265.25",
+      "actual": "1265.24",
+      "delta": "-0.01",
+      "golden_line": "ACCT001950        1265.25       26570.15",
+      "actual_line": "ACCT001950        1265.24       26570.14"
+    },
+    {
+      "account": "ACCT001952",
+      "field": "interest",
+      "expected": "660.09",
+      "actual": "660.08",
+      "delta": "-0.01",
+      "golden_line": "ACCT001952         660.09       13861.79",
+      "actual_line": "ACCT001952         660.08       13861.78"
+    },
+    {
+      "account": "ACCT001953",
+      "field": "interest",
+      "expected": "969.19",
+      "actual": "969.18",
+      "delta": "-0.01",
+      "golden_line": "ACCT001953         969.19       20352.89",
+      "actual_line": "ACCT001953         969.18       20352.88"
+    },
+    {
+      "account": "ACCT001960",
+      "field": "interest",
+      "expected": "3027.15",
+      "actual": "3027.14",
+      "delta": "-0.01",
+      "golden_line": "ACCT001960        3027.15       63570.05",
+      "actual_line": "ACCT001960        3027.14       63570.04"
+    },
+    {
+      "account": "ACCT001971",
+      "field": "interest",
+      "expected": "112.27",
+      "actual": "112.26",
+      "delta": "-0.01",
+      "golden_line": "ACCT001971         112.27        2357.57",
+      "actual_line": "ACCT001971         112.26        2357.56"
+    },
+    {
+      "account": "ACCT001973",
+      "field": "interest",
+      "expected": "4507.59",
+      "actual": "4507.58",
+      "delta": "-0.01",
+      "golden_line": "ACCT001973        4507.59       94659.29",
+      "actual_line": "ACCT001973        4507.58       94659.28"
+    },
+    {
+      "account": "ACCT001981",
+      "field": "interest",
+      "expected": "2150.99",
+      "actual": "2150.98",
+      "delta": "-0.01",
+      "golden_line": "ACCT001981        2150.99       45170.69",
+      "actual_line": "ACCT001981        2150.98       45170.68"
+    },
+    {
+      "account": "ACCT001990",
+      "field": "interest",
+      "expected": "463.73",
+      "actual": "463.72",
+      "delta": "-0.01",
+      "golden_line": "ACCT001990         463.73        9738.23",
+      "actual_line": "ACCT001990         463.72        9738.22"
+    },
+    {
+      "account": "ACCT001993",
+      "field": "interest",
+      "expected": "3417.13",
+      "actual": "3417.12",
+      "delta": "-0.01",
+      "golden_line": "ACCT001993        3417.13       71759.63",
+      "actual_line": "ACCT001993        3417.12       71759.62"
+    }
+  ]
+}

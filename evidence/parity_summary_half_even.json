@@ -1,0 +1,111 @@
+{
+  "records_compared": 2000,
+  "total_value_divergences": 376,
+  "formatting_only_benign": 0,
+  "distinct_divergence_classes": 1,
+  "classes": [
+    {
+      "signature": "interest differs by -0.01",
+      "field": "interest",
+      "delta": "-0.01",
+      "occurrences": 376,
+      "share_of_all_records": "18.80%",
+      "expected_range": [
+        "43.21",
+        "4989.39"
+      ],
+      "actual_range": [
+        "43.20",
+        "4989.38"
+      ],
+      "examples": [
+        {
+          "account": "ACCT000000",
+          "expected": "3953.49",
+          "actual": "3953.48",
+          "golden_line": "ACCT000000        3953.49       83023.19",
+          "actual_line": "ACCT000000        3953.48       83023.18"
+        },
+        {
+          "account": "ACCT000001",
+          "expected": "2233.91",
+          "actual": "2233.90",
+          "golden_line": "ACCT000001        2233.91       46912.01",
+          "actual_line": "ACCT000001        2233.90       46912.00"
+        },
+        {
+          "account": "ACCT000002",
+          "expected": "273.81",
+          "actual": "273.80",
+          "golden_line": "ACCT000002         273.81        5749.91",
+          "actual_line": "ACCT000002         273.80        5749.90"
+        }
+      ]
+    }
+  ],
+  "specification_source": "interest.cbl",
+  "pic_clauses": [
+    {
+      "line": 27,
+      "text": "05  IN-ACCT        PIC X(10)."
+    },
+    {
+      "line": 28,
+      "text": "05  IN-PRINCIPAL   PIC 9(7)V99."
+    },
+    {
+      "line": 29,
+      "text": "05  IN-RATE        PIC 9(2)V999."
+    },
+    {
+      "line": 33,
+      "text": "05  OUT-ACCT       PIC X(10)."
+    },
+    {
+      "line": 34,
+      "text": "05  FILLER         PIC X."
+    },
+    {
+      "line": 35,
+      "text": "05  OUT-INTEREST   PIC ----------9.99."
+    },
+    {
+      "line": 36,
+      "text": "05  FILLER         PIC X."
+    },
+    {
+      "line": 37,
+      "text": "05  OUT-TOTAL      PIC ----------9.99."
+    },
+    {
+      "line": 40,
+      "text": "01  WS-EOF             PIC X          VALUE \"N\"."
+    },
+    {
+      "line": 41,
+      "text": "01  WS-PRINCIPAL       PIC S9(7)V99   COMP-3."
+    },
+    {
+      "line": 42,
+      "text": "01  WS-RATE            PIC S9(2)V999  COMP-3."
+    },
+    {
+      "line": 43,
+      "text": "01  WS-INTEREST        PIC S9(7)V99   COMP-3."
+    },
+    {
+      "line": 44,
+      "text": "01  WS-TOTAL           PIC S9(7)V99   COMP-3."
+    }
+  ],
+  "arithmetic_statements": [
+    {
+      "line": 67,
+      "text": "COMPUTE WS-INTEREST ROUNDED ="
+    },
+    {
+      "line": 69,
+      "text": "ADD WS-PRINCIPAL TO WS-INTEREST GIVING WS-TOTAL"
+    }
+  ]
+}

@@ -2,3 +2,5 @@ interest
 output.dat
 *.class
 target/
+*.jar
+*.class
