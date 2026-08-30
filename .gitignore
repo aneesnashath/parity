@@ -4,3 +4,8 @@ output.dat
 target/
 *.jar
 *.class
+InterestAccrual.java.bak
+divergences.json
+*.jar
+*.class
+interest
