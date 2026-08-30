@@ -25,6 +25,19 @@ Raw JUnit output for all three variants is in `evidence/junit/`.
 
 ---
 
+## IBM Bob usage evidence
+
+Task session summaries and full transcript exports are in [`bob_sessions/`](bob_sessions/):
+
+| Task | Bob features used | Evidence |
+|---|---|---|
+| COBOL → Java translation | Plan mode → Agent mode | `parity_task01_*.png`, `.md` |
+| Divergence classification | Three parallel subagents, document understanding | `parity_task02_*.png`, `.md` |
+| Skill packaging | Skills | `parity_task03_*.png`, `.md` |
+
+Total: 5.39 of 40 Bobcoins. The three parallel classification subagents cost 0.071 combined.
+
+
 ## The problem
 
 Behavioural equivalence between a legacy program and its rewrite is the unsolved
