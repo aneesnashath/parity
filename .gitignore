@@ -14,3 +14,5 @@ divergences.json
 *.jar
 *.class
 interest
+java_output.dat
+output.dat
