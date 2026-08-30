@@ -1,0 +1,53 @@
+
+Thanks for using JUnit! Support its development at https://junit.org/sponsoring
+
+[36m╷[0m
+[36m├─[0m [36mJUnit Jupiter[0m [32m✔[0m
+[36m│  └─[0m [36mInterestAccrualTest[0m [32m✔[0m
+[36m│     ├─[0m [34mformat_smallFraction_paddedCorrectly()[0m [32m✔[0m
+[36m│     ├─[0m [36mhalfUpRounding(String, String, String)[0m [32m✔[0m
+[36m│     │  ├─[0m [34mprincipal=200.00, rate=0.25 -> interest=0.50[0m [32m✔[0m
+[36m│     │  ├─[0m [34mprincipal=100.00, rate=0.40 -> interest=0.40[0m [32m✔[0m
+[36m│     │  ├─[0m [34mprincipal=300.00, rate=1.005 -> interest=3.02[0m [32m✔[0m
+[36m│     │  ├─[0m [34mprincipal=0.00, rate=5.000 -> interest=0.00[0m [32m✔[0m
+[36m│     │  └─[0m [34mprincipal=12345.67, rate=0.000 -> interest=0.00[0m [32m✔[0m
+[36m│     ├─[0m [36mtestProcessRecord(String, String)[0m [32m✔[0m
+[36m│     │  ├─[0m [34m[1] ACCT00000000790697005000[0m [32m✔[0m
+[36m│     │  ├─[0m [34m[2] ACCT00000100446781005000[0m [32m✔[0m
+[36m│     │  ├─[0m [34m[3] ACCT00000200054761005000[0m [32m✔[0m
+[36m│     │  ├─[0m [34m[4] ACCT00000300189371005000[0m [32m✔[0m
+[36m│     │  ├─[0m [34m[5] ACCT00000400000000015987[0m [32m✔[0m
+[36m│     │  ├─[0m [34m[6] ACCT00000800742850500000[0m [32m✔[0m
+[36m│     │  └─[0m [34m[7] ACCT00000697372955603569[0m [32m✔[0m
+[36m│     ├─[0m [34mtruncate_negative_preservesSignAfterTruncation()[0m [32m✔[0m
+[36m│     ├─[0m [34mformat_zero_producesSpacePaddedZero()[0m [32m✔[0m
+[36m│     ├─[0m [34mtruncate_overflowMatchesCobolBehaviour()[0m [32m✔[0m
+[36m│     ├─[0m [34mmainMethod_writesCorrectFile(Path)[0m [32m✔[0m
+[36m│     ├─[0m [34mintegrationTest_outputMatchesGoldenFile(Path)[0m [32m✔[0m
+[36m│     ├─[0m [34mformat_maxValue_fillsAllDigits()[0m [32m✔[0m
+[36m│     ├─[0m [34mformat_negativeValue_includesMinusSign()[0m [32m✔[0m
+[36m│     ├─[0m [34mtruncate_noOverflow_returnsUnchanged()[0m [32m✔[0m
+[36m│     ├─[0m [34mtruncate_exactMaxValue_returnsUnchanged()[0m [32m✔[0m
+[36m│     ├─[0m [34mtruncate_oneAboveMax_wrapsToZeroCents()[0m [32m✔[0m
+[36m│     └─[0m [34mformat_positiveValue_rightJustified()[0m [32m✔[0m
+[36m├─[0m [36mJUnit Vintage[0m [32m✔[0m
+[36m└─[0m [36mJUnit Platform Suite[0m [32m✔[0m
+
+Test run finished after 370 ms
+[         6 containers found      ]
+[         0 containers skipped    ]
+[         6 containers started    ]
+[         0 containers aborted    ]
+[         6 containers successful ]
+[         0 containers failed     ]
+[        24 tests found           ]
+[         0 tests skipped         ]
+[        24 tests started         ]
+[         0 tests aborted         ]
+[        24 tests successful      ]
+[         0 tests failed          ]
+
+
+WARNING: Delegated to the 'execute' command.
+         This behaviour has been deprecated and will be removed in a future release.
+         Please use the 'execute' command directly.
