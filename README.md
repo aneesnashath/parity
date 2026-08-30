@@ -18,8 +18,10 @@ Workflow addressed: application maintenance / legacy modernisation
 Five red tests against two. A test suite reports *that* something broke. It cannot
 report *how much*, *which accounts*, or *what share of traffic*. Parity does.
 
-Cost: **4.60 Bobcoins** for the full build, of which the three parallel
+Cost: **5.39 Bobcoins** for the full build, of which the three parallel
 classification subagents accounted for **0.071**.
+
+Raw JUnit output for all three variants is in `evidence/junit/`.
 
 ---
 
@@ -54,6 +56,10 @@ executable.
    `PIC` clauses. 82,798 bytes → 2,674 bytes (3.2%).
 6. **Classify** — three Bob subagents in parallel: severity classification, root
    cause traced to a COBOL line, and a minimal remediation patch.
+7. **Package** — the whole sequence ships as a Bob Skill
+   (`.bob/skills/parity/`) with a porting guide covering GnuCOBOL vs IBM
+   Enterprise COBOL, adaptation for PL/I and RPG, and the five most common
+   migration failure modes.
 
 ## What Bob got right unprompted
 
@@ -79,6 +85,8 @@ upper-range values that overflow `PIC S9(7)V99`, and zero-rate records.
 
 ## Reproducing
 
+Verified from a clean clone with no manual steps.
+
 ```bash
 sudo apt install -y gnucobol openjdk-21-jdk-headless
 
@@ -90,6 +98,14 @@ cp output.dat golden_traces.dat     # freeze the oracle
 javac InterestAccrual.java && java InterestAccrual
 python3 compare.py golden_traces.dat java_output.dat
 python3 condense.py evidence/mutation_no_overflow_guard.json interest.cbl
+```
+
+JUnit is run separately. The console-standalone jar is deliberately not
+vendored — download it from Maven Central and place it in the repository root:
+
+```bash
+java -jar junit-platform-console-standalone-1.10.3.jar \
+  --class-path . --select-class InterestAccrualTest
 ```
 
 Mutation A: change `RoundingMode.HALF_UP` to `HALF_EVEN` on line 71.
@@ -106,8 +122,9 @@ compare.py                semantic comparator
 condense.py               divergence condenser
 golden_traces.dat         frozen COBOL oracle
 evidence/                 divergence reports, condensed summaries,
-                          subagent classification report
+                          JUnit output, subagent classification report
 bob_sessions/             Bob task session consumption summaries
+.bob/skills/parity/       reusable Bob Skill: SKILL.md + porting guide
 ```
 
 ## Limitations
@@ -118,6 +135,11 @@ legacy system, which is not the same as detecting incorrectness: where the
 legacy program is itself wrong, Parity will correctly flag a *fixed* rewrite as
 divergent. That is the intended semantics for migration work, where downstream
 reconciliation depends on the legacy behaviour rather than the ideal one.
+
+The £2.86bn figure is the arithmetic sum of divergences across a 2,000-record
+synthetic corpus, not a projection of real-world exposure. It represents 286
+records disagreeing by £10,000,000 each; actual exposure scales with how many
+accounts sit near the `PIC S9(7)V99` field limit.
 
 Demonstrated on a single COBOL batch program. Extending to file-based and
 VSAM-backed programs requires capture at the I/O boundary rather than stdout.
