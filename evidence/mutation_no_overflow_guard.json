@@ -1,0 +1,2583 @@
+{
+  "records_compared": 2000,
+  "value_divergences": 286,
+  "formatting_only": 0,
+  "missing": [],
+  "extra": [],
+  "divergences": [
+    {
+      "account": "ACCT000006",
+      "field": "total",
+      "expected": "84819.64",
+      "actual": "10084819.64",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000006      347524.08       84819.64",
+      "actual_line": "ACCT000006      347524.08    10084819.64"
+    },
+    {
+      "account": "ACCT000016",
+      "field": "total",
+      "expected": "652959.75",
+      "actual": "10652959.75",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000016     1022643.30      652959.75",
+      "actual_line": "ACCT000016     1022643.30    10652959.75"
+    },
+    {
+      "account": "ACCT000017",
+      "field": "total",
+      "expected": "1145226.23",
+      "actual": "11145226.23",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000017     1396248.58     1145226.23",
+      "actual_line": "ACCT000017     1396248.58    11145226.23"
+    },
+    {
+      "account": "ACCT000026",
+      "field": "total",
+      "expected": "399114.78",
+      "actual": "10399114.78",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000026      819180.21      399114.78",
+      "actual_line": "ACCT000026      819180.21    10399114.78"
+    },
+    {
+      "account": "ACCT000036",
+      "field": "total",
+      "expected": "1405864.96",
+      "actual": "11405864.96",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000036     1453190.06     1405864.96",
+      "actual_line": "ACCT000036     1453190.06    11405864.96"
+    },
+    {
+      "account": "ACCT000056",
+      "field": "total",
+      "expected": "127914.74",
+      "actual": "10127914.74",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000056      592528.88      127914.74",
+      "actual_line": "ACCT000056      592528.88    10127914.74"
+    },
+    {
+      "account": "ACCT000057",
+      "field": "total",
+      "expected": "1012252.19",
+      "actual": "11012252.19",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000057     1516229.88     1012252.19",
+      "actual_line": "ACCT000057     1516229.88    11012252.19"
+    },
+    {
+      "account": "ACCT000066",
+      "field": "total",
+      "expected": "942494.85",
+      "actual": "10942494.85",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000066     1114583.43      942494.85",
+      "actual_line": "ACCT000066     1114583.43    10942494.85"
+    },
+    {
+      "account": "ACCT000076",
+      "field": "total",
+      "expected": "590272.80",
+      "actual": "10590272.80",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000076     1203979.80      590272.80",
+      "actual_line": "ACCT000076     1203979.80    10590272.80"
+    },
+    {
+      "account": "ACCT000077",
+      "field": "total",
+      "expected": "631219.85",
+      "actual": "10631219.85",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000077     1433548.98      631219.85",
+      "actual_line": "ACCT000077     1433548.98    10631219.85"
+    },
+    {
+      "account": "ACCT000087",
+      "field": "total",
+      "expected": "153716.28",
+      "actual": "10153716.28",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000087      364831.73      153716.28",
+      "actual_line": "ACCT000087      364831.73    10153716.28"
+    },
+    {
+      "account": "ACCT000096",
+      "field": "total",
+      "expected": "533616.44",
+      "actual": "10533616.44",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000096      774936.75      533616.44",
+      "actual_line": "ACCT000096      774936.75    10533616.44"
+    },
+    {
+      "account": "ACCT000097",
+      "field": "total",
+      "expected": "216447.68",
+      "actual": "10216447.68",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000097      394356.94      216447.68",
+      "actual_line": "ACCT000097      394356.94    10216447.68"
+    },
+    {
+      "account": "ACCT000106",
+      "field": "total",
+      "expected": "185872.54",
+      "actual": "10185872.54",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000106      379695.19      185872.54",
+      "actual_line": "ACCT000106      379695.19    10185872.54"
+    },
+    {
+      "account": "ACCT000107",
+      "field": "total",
+      "expected": "640387.00",
+      "actual": "10640387.00",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000107      753389.23      640387.00",
+      "actual_line": "ACCT000107      753389.23    10640387.00"
+    },
+    {
+      "account": "ACCT000117",
+      "field": "total",
+      "expected": "594016.18",
+      "actual": "10594016.18",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000117     1377580.62      594016.18",
+      "actual_line": "ACCT000117     1377580.62    10594016.18"
+    },
+    {
+      "account": "ACCT000126",
+      "field": "total",
+      "expected": "718147.17",
+      "actual": "10718147.17",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000126     1036865.29      718147.17",
+      "actual_line": "ACCT000126     1036865.29    10718147.17"
+    },
+    {
+      "account": "ACCT000127",
+      "field": "total",
+      "expected": "516461.39",
+      "actual": "10516461.39",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000127     1430808.60      516461.39",
+      "actual_line": "ACCT000127     1430808.60    10516461.39"
+    },
+    {
+      "account": "ACCT000136",
+      "field": "total",
+      "expected": "318779.31",
+      "actual": "10318779.31",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000136      938582.49      318779.31",
+      "actual_line": "ACCT000136      938582.49    10318779.31"
+    },
+    {
+      "account": "ACCT000137",
+      "field": "total",
+      "expected": "3739.77",
+      "actual": "10003739.77",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000137      115396.96        3739.77",
+      "actual_line": "ACCT000137      115396.96    10003739.77"
+    },
+    {
+      "account": "ACCT000146",
+      "field": "total",
+      "expected": "777471.28",
+      "actual": "10777471.28",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000146      966123.42      777471.28",
+      "actual_line": "ACCT000146      966123.42    10777471.28"
+    },
+    {
+      "account": "ACCT000147",
+      "field": "total",
+      "expected": "953030.81",
+      "actual": "10953030.81",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000147     1066285.48      953030.81",
+      "actual_line": "ACCT000147     1066285.48    10953030.81"
+    },
+    {
+      "account": "ACCT000157",
+      "field": "total",
+      "expected": "1144012.92",
+      "actual": "11144012.92",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000157     1389868.10     1144012.92",
+      "actual_line": "ACCT000157     1389868.10    11144012.92"
+    },
+    {
+      "account": "ACCT000166",
+      "field": "total",
+      "expected": "792790.63",
+      "actual": "10792790.63",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000166      832114.85      792790.63",
+      "actual_line": "ACCT000166      832114.85    10792790.63"
+    },
+    {
+      "account": "ACCT000167",
+      "field": "total",
+      "expected": "825064.06",
+      "actual": "10825064.06",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000167     1203383.58      825064.06",
+      "actual_line": "ACCT000167     1203383.58    10825064.06"
+    },
+    {
+      "account": "ACCT000176",
+      "field": "total",
+      "expected": "804724.56",
+      "actual": "10804724.56",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000176      958078.65      804724.56",
+      "actual_line": "ACCT000176      958078.65    10804724.56"
+    },
+    {
+      "account": "ACCT000187",
+      "field": "total",
+      "expected": "348860.96",
+      "actual": "10348860.96",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000187      791449.26      348860.96",
+      "actual_line": "ACCT000187      791449.26    10348860.96"
+    },
+    {
+      "account": "ACCT000196",
+      "field": "total",
+      "expected": "1245827.15",
+      "actual": "11245827.15",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000196     1544792.72     1245827.15",
+      "actual_line": "ACCT000196     1544792.72    11245827.15"
+    },
+    {
+      "account": "ACCT000197",
+      "field": "total",
+      "expected": "520145.86",
+      "actual": "10520145.86",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000197      566181.49      520145.86",
+      "actual_line": "ACCT000197      566181.49    10520145.86"
+    },
+    {
+      "account": "ACCT000206",
+      "field": "total",
+      "expected": "748948.13",
+      "actual": "10748948.13",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000206      816451.24      748948.13",
+      "actual_line": "ACCT000206      816451.24    10748948.13"
+    },
+    {
+      "account": "ACCT000216",
+      "field": "total",
+      "expected": "90332.98",
+      "actual": "10090332.98",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000216      301306.24       90332.98",
+      "actual_line": "ACCT000216      301306.24    10090332.98"
+    },
+    {
+      "account": "ACCT000226",
+      "field": "total",
+      "expected": "1028080.94",
+      "actual": "11028080.94",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000226     1154869.54     1028080.94",
+      "actual_line": "ACCT000226     1154869.54    11028080.94"
+    },
+    {
+      "account": "ACCT000236",
+      "field": "total",
+      "expected": "697288.24",
+      "actual": "10697288.24",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000236      776684.10      697288.24",
+      "actual_line": "ACCT000236      776684.10    10697288.24"
+    },
+    {
+      "account": "ACCT000247",
+      "field": "total",
+      "expected": "331464.46",
+      "actual": "10331464.46",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000247      571080.09      331464.46",
+      "actual_line": "ACCT000247      571080.09    10331464.46"
+    },
+    {
+      "account": "ACCT000256",
+      "field": "total",
+      "expected": "707958.64",
+      "actual": "10707958.64",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000256     1009950.56      707958.64",
+      "actual_line": "ACCT000256     1009950.56    10707958.64"
+    },
+    {
+      "account": "ACCT000266",
+      "field": "total",
+      "expected": "484677.34",
+      "actual": "10484677.34",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000266     1115578.59      484677.34",
+      "actual_line": "ACCT000266     1115578.59    10484677.34"
+    },
+    {
+      "account": "ACCT000267",
+      "field": "total",
+      "expected": "808618.08",
+      "actual": "10808618.08",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000267     1310544.23      808618.08",
+      "actual_line": "ACCT000267     1310544.23    10808618.08"
+    },
+    {
+      "account": "ACCT000276",
+      "field": "total",
+      "expected": "823981.91",
+      "actual": "10823981.91",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000276     1054868.83      823981.91",
+      "actual_line": "ACCT000276     1054868.83    10823981.91"
+    },
+    {
+      "account": "ACCT000277",
+      "field": "total",
+      "expected": "389016.62",
+      "actual": "10389016.62",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000277      825608.98      389016.62",
+      "actual_line": "ACCT000277      825608.98    10389016.62"
+    },
+    {
+      "account": "ACCT000286",
+      "field": "total",
+      "expected": "669281.72",
+      "actual": "10669281.72",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000286      685767.59      669281.72",
+      "actual_line": "ACCT000286      685767.59    10669281.72"
+    },
+    {
+      "account": "ACCT000287",
+      "field": "total",
+      "expected": "927150.17",
+      "actual": "10927150.17",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000287     1040652.72      927150.17",
+      "actual_line": "ACCT000287     1040652.72    10927150.17"
+    },
+    {
+      "account": "ACCT000296",
+      "field": "total",
+      "expected": "718753.62",
+      "actual": "10718753.62",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000296     1326718.83      718753.62",
+      "actual_line": "ACCT000296     1326718.83    10718753.62"
+    },
+    {
+      "account": "ACCT000306",
+      "field": "total",
+      "expected": "237249.75",
+      "actual": "10237249.75",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000306      557184.55      237249.75",
+      "actual_line": "ACCT000306      557184.55    10237249.75"
+    },
+    {
+      "account": "ACCT000316",
+      "field": "total",
+      "expected": "80893.08",
+      "actual": "10080893.08",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000316      232231.44       80893.08",
+      "actual_line": "ACCT000316      232231.44    10080893.08"
+    },
+    {
+      "account": "ACCT000326",
+      "field": "total",
+      "expected": "624485.32",
+      "actual": "10624485.32",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000326     1399920.03      624485.32",
+      "actual_line": "ACCT000326     1399920.03    10624485.32"
+    },
+    {
+      "account": "ACCT000327",
+      "field": "total",
+      "expected": "996985.75",
+      "actual": "10996985.75",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000327     1274518.26      996985.75",
+      "actual_line": "ACCT000327     1274518.26    10996985.75"
+    },
+    {
+      "account": "ACCT000337",
+      "field": "total",
+      "expected": "49032.35",
+      "actual": "10049032.35",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000337     1010507.12       49032.35",
+      "actual_line": "ACCT000337     1010507.12    10049032.35"
+    },
+    {
+      "account": "ACCT000356",
+      "field": "total",
+      "expected": "376502.87",
+      "actual": "10376502.87",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000356      898859.68      376502.87",
+      "actual_line": "ACCT000356      898859.68    10376502.87"
+    },
+    {
+      "account": "ACCT000357",
+      "field": "total",
+      "expected": "948897.36",
+      "actual": "10948897.36",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000357     1019545.82      948897.36",
+      "actual_line": "ACCT000357     1019545.82    10948897.36"
+    },
+    {
+      "account": "ACCT000366",
+      "field": "total",
+      "expected": "44620.48",
+      "actual": "10044620.48",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000366      529785.98       44620.48",
+      "actual_line": "ACCT000366      529785.98    10044620.48"
+    },
+    {
+      "account": "ACCT000367",
+      "field": "total",
+      "expected": "894885.76",
+      "actual": "10894885.76",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000367     1490095.04      894885.76",
+      "actual_line": "ACCT000367     1490095.04    10894885.76"
+    },
+    {
+      "account": "ACCT000396",
+      "field": "total",
+      "expected": "432122.88",
+      "actual": "10432122.88",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000396     1276881.51      432122.88",
+      "actual_line": "ACCT000396     1276881.51    10432122.88"
+    },
+    {
+      "account": "ACCT000397",
+      "field": "total",
+      "expected": "824226.27",
+      "actual": "10824226.27",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000397     1473246.81      824226.27",
+      "actual_line": "ACCT000397     1473246.81    10824226.27"
+    },
+    {
+      "account": "ACCT000406",
+      "field": "total",
+      "expected": "200854.52",
+      "actual": "10200854.52",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000406      682468.29      200854.52",
+      "actual_line": "ACCT000406      682468.29    10200854.52"
+    },
+    {
+      "account": "ACCT000407",
+      "field": "total",
+      "expected": "889360.07",
+      "actual": "10889360.07",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000407      894995.36      889360.07",
+      "actual_line": "ACCT000407      894995.36    10889360.07"
+    },
+    {
+      "account": "ACCT000416",
+      "field": "total",
+      "expected": "665123.69",
+      "actual": "10665123.69",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000416     1111386.27      665123.69",
+      "actual_line": "ACCT000416     1111386.27    10665123.69"
+    },
+    {
+      "account": "ACCT000417",
+      "field": "total",
+      "expected": "382894.15",
+      "actual": "10382894.15",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000417      471107.23      382894.15",
+      "actual_line": "ACCT000417      471107.23    10382894.15"
+    },
+    {
+      "account": "ACCT000427",
+      "field": "total",
+      "expected": "936109.02",
+      "actual": "10936109.02",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000427     1090676.96      936109.02",
+      "actual_line": "ACCT000427     1090676.96    10936109.02"
+    },
+    {
+      "account": "ACCT000437",
+      "field": "total",
+      "expected": "505076.79",
+      "actual": "10505076.79",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000437     1359650.52      505076.79",
+      "actual_line": "ACCT000437     1359650.52    10505076.79"
+    },
+    {
+      "account": "ACCT000447",
+      "field": "total",
+      "expected": "63053.58",
+      "actual": "10063053.58",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000447      628351.18       63053.58",
+      "actual_line": "ACCT000447      628351.18    10063053.58"
+    },
+    {
+      "account": "ACCT000456",
+      "field": "total",
+      "expected": "362847.22",
+      "actual": "10362847.22",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000456      965740.64      362847.22",
+      "actual_line": "ACCT000456      965740.64    10362847.22"
+    },
+    {
+      "account": "ACCT000457",
+      "field": "total",
+      "expected": "193814.01",
+      "actual": "10193814.01",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000457      742670.83      193814.01",
+      "actual_line": "ACCT000457      742670.83    10193814.01"
+    },
+    {
+      "account": "ACCT000466",
+      "field": "total",
+      "expected": "1050859.01",
+      "actual": "11050859.01",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000466     1272203.13     1050859.01",
+      "actual_line": "ACCT000466     1272203.13    11050859.01"
+    },
+    {
+      "account": "ACCT000467",
+      "field": "total",
+      "expected": "827253.06",
+      "actual": "10827253.06",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000467     1464599.84      827253.06",
+      "actual_line": "ACCT000467     1464599.84    10827253.06"
+    },
+    {
+      "account": "ACCT000476",
+      "field": "total",
+      "expected": "165750.94",
+      "actual": "10165750.94",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000476      843992.05      165750.94",
+      "actual_line": "ACCT000476      843992.05    10165750.94"
+    },
+    {
+      "account": "ACCT000477",
+      "field": "total",
+      "expected": "752556.33",
+      "actual": "10752556.33",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000477      973237.78      752556.33",
+      "actual_line": "ACCT000477      973237.78    10752556.33"
+    },
+    {
+      "account": "ACCT000486",
+      "field": "total",
+      "expected": "532775.05",
+      "actual": "10532775.05",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000486     1213632.00      532775.05",
+      "actual_line": "ACCT000486     1213632.00    10532775.05"
+    },
+    {
+      "account": "ACCT000487",
+      "field": "total",
+      "expected": "324710.40",
+      "actual": "10324710.40",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000487      674005.25      324710.40",
+      "actual_line": "ACCT000487      674005.25    10324710.40"
+    },
+    {
+      "account": "ACCT000497",
+      "field": "total",
+      "expected": "638090.33",
+      "actual": "10638090.33",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000497     1280987.39      638090.33",
+      "actual_line": "ACCT000497     1280987.39    10638090.33"
+    },
+    {
+      "account": "ACCT000506",
+      "field": "total",
+      "expected": "45990.10",
+      "actual": "10045990.10",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000506      757564.03       45990.10",
+      "actual_line": "ACCT000506      757564.03    10045990.10"
+    },
+    {
+      "account": "ACCT000507",
+      "field": "total",
+      "expected": "716476.42",
+      "actual": "10716476.42",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000507     1472078.00      716476.42",
+      "actual_line": "ACCT000507     1472078.00    10716476.42"
+    },
+    {
+      "account": "ACCT000516",
+      "field": "total",
+      "expected": "303202.91",
+      "actual": "10303202.91",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000516      905557.15      303202.91",
+      "actual_line": "ACCT000516      905557.15    10303202.91"
+    },
+    {
+      "account": "ACCT000517",
+      "field": "total",
+      "expected": "571132.15",
+      "actual": "10571132.15",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000517     1440376.68      571132.15",
+      "actual_line": "ACCT000517     1440376.68    10571132.15"
+    },
+    {
+      "account": "ACCT000526",
+      "field": "total",
+      "expected": "282716.62",
+      "actual": "10282716.62",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000526     1246064.03      282716.62",
+      "actual_line": "ACCT000526     1246064.03    10282716.62"
+    },
+    {
+      "account": "ACCT000536",
+      "field": "total",
+      "expected": "212581.36",
+      "actual": "10212581.36",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000536      232437.55      212581.36",
+      "actual_line": "ACCT000536      232437.55    10212581.36"
+    },
+    {
+      "account": "ACCT000546",
+      "field": "total",
+      "expected": "812314.46",
+      "actual": "10812314.46",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000546     1226164.45      812314.46",
+      "actual_line": "ACCT000546     1226164.45    10812314.46"
+    },
+    {
+      "account": "ACCT000547",
+      "field": "total",
+      "expected": "1376956.20",
+      "actual": "11376956.20",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000547     1387268.00     1376956.20",
+      "actual_line": "ACCT000547     1387268.00    11376956.20"
+    },
+    {
+      "account": "ACCT000556",
+      "field": "total",
+      "expected": "971719.67",
+      "actual": "10971719.67",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000556      973979.82      971719.67",
+      "actual_line": "ACCT000556      973979.82    10971719.67"
+    },
+    {
+      "account": "ACCT000566",
+      "field": "total",
+      "expected": "207767.69",
+      "actual": "10207767.69",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000566     1201443.63      207767.69",
+      "actual_line": "ACCT000566     1201443.63    10207767.69"
+    },
+    {
+      "account": "ACCT000567",
+      "field": "total",
+      "expected": "88985.38",
+      "actual": "10088985.38",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000567      275560.96       88985.38",
+      "actual_line": "ACCT000567      275560.96    10088985.38"
+    },
+    {
+      "account": "ACCT000576",
+      "field": "total",
+      "expected": "7350.72",
+      "actual": "10007350.72",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000576      829831.31        7350.72",
+      "actual_line": "ACCT000576      829831.31    10007350.72"
+    },
+    {
+      "account": "ACCT000577",
+      "field": "total",
+      "expected": "692701.74",
+      "actual": "10692701.74",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000577     1311986.79      692701.74",
+      "actual_line": "ACCT000577     1311986.79    10692701.74"
+    },
+    {
+      "account": "ACCT000587",
+      "field": "total",
+      "expected": "183490.90",
+      "actual": "10183490.90",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000587     1120623.55      183490.90",
+      "actual_line": "ACCT000587     1120623.55    10183490.90"
+    },
+    {
+      "account": "ACCT000597",
+      "field": "total",
+      "expected": "262170.01",
+      "actual": "10262170.01",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000597     1221805.29      262170.01",
+      "actual_line": "ACCT000597     1221805.29    10262170.01"
+    },
+    {
+      "account": "ACCT000606",
+      "field": "total",
+      "expected": "680560.71",
+      "actual": "10680560.71",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000606     1368743.95      680560.71",
+      "actual_line": "ACCT000606     1368743.95    10680560.71"
+    },
+    {
+      "account": "ACCT000607",
+      "field": "total",
+      "expected": "584342.93",
+      "actual": "10584342.93",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000607     1290456.18      584342.93",
+      "actual_line": "ACCT000607     1290456.18    10584342.93"
+    },
+    {
+      "account": "ACCT000616",
+      "field": "total",
+      "expected": "733497.17",
+      "actual": "10733497.17",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000616     1422125.76      733497.17",
+      "actual_line": "ACCT000616     1422125.76    10733497.17"
+    },
+    {
+      "account": "ACCT000617",
+      "field": "total",
+      "expected": "949192.94",
+      "actual": "10949192.94",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000617     1385576.72      949192.94",
+      "actual_line": "ACCT000617     1385576.72    10949192.94"
+    },
+    {
+      "account": "ACCT000626",
+      "field": "total",
+      "expected": "961816.84",
+      "actual": "10961816.84",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000626     1374026.27      961816.84",
+      "actual_line": "ACCT000626     1374026.27    10961816.84"
+    },
+    {
+      "account": "ACCT000627",
+      "field": "total",
+      "expected": "210319.13",
+      "actual": "10210319.13",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000627      841592.70      210319.13",
+      "actual_line": "ACCT000627      841592.70    10210319.13"
+    },
+    {
+      "account": "ACCT000636",
+      "field": "total",
+      "expected": "217753.19",
+      "actual": "10217753.19",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000636      225133.72      217753.19",
+      "actual_line": "ACCT000636      225133.72    10217753.19"
+    },
+    {
+      "account": "ACCT000646",
+      "field": "total",
+      "expected": "230253.00",
+      "actual": "10230253.00",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000646      826582.63      230253.00",
+      "actual_line": "ACCT000646      826582.63    10230253.00"
+    },
+    {
+      "account": "ACCT000647",
+      "field": "total",
+      "expected": "67993.58",
+      "actual": "10067993.58",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000647     1032568.39       67993.58",
+      "actual_line": "ACCT000647     1032568.39    10067993.58"
+    },
+    {
+      "account": "ACCT000656",
+      "field": "total",
+      "expected": "1093166.82",
+      "actual": "11093166.82",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000656     1468694.48     1093166.82",
+      "actual_line": "ACCT000656     1468694.48    11093166.82"
+    },
+    {
+      "account": "ACCT000657",
+      "field": "total",
+      "expected": "189904.35",
+      "actual": "10189904.35",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000657      523989.26      189904.35",
+      "actual_line": "ACCT000657      523989.26    10189904.35"
+    },
+    {
+      "account": "ACCT000666",
+      "field": "total",
+      "expected": "960876.02",
+      "actual": "10960876.02",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000666     1306608.56      960876.02",
+      "actual_line": "ACCT000666     1306608.56    10960876.02"
+    },
+    {
+      "account": "ACCT000667",
+      "field": "total",
+      "expected": "845226.42",
+      "actual": "10845226.42",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000667     1339457.85      845226.42",
+      "actual_line": "ACCT000667     1339457.85    10845226.42"
+    },
+    {
+      "account": "ACCT000677",
+      "field": "total",
+      "expected": "389065.37",
+      "actual": "10389065.37",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000677      524779.98      389065.37",
+      "actual_line": "ACCT000677      524779.98    10389065.37"
+    },
+    {
+      "account": "ACCT000686",
+      "field": "total",
+      "expected": "484811.44",
+      "actual": "10484811.44",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000686     1327770.88      484811.44",
+      "actual_line": "ACCT000686     1327770.88    10484811.44"
+    },
+    {
+      "account": "ACCT000687",
+      "field": "total",
+      "expected": "768443.15",
+      "actual": "10768443.15",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000687      972002.81      768443.15",
+      "actual_line": "ACCT000687      972002.81    10768443.15"
+    },
+    {
+      "account": "ACCT000697",
+      "field": "total",
+      "expected": "180798.70",
+      "actual": "10180798.70",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000697      548829.60      180798.70",
+      "actual_line": "ACCT000697      548829.60    10180798.70"
+    },
+    {
+      "account": "ACCT000716",
+      "field": "total",
+      "expected": "977429.07",
+      "actual": "10977429.07",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000716     1129993.26      977429.07",
+      "actual_line": "ACCT000716     1129993.26    10977429.07"
+    },
+    {
+      "account": "ACCT000717",
+      "field": "total",
+      "expected": "61055.69",
+      "actual": "10061055.69",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000717     1020335.66       61055.69",
+      "actual_line": "ACCT000717     1020335.66    10061055.69"
+    },
+    {
+      "account": "ACCT000726",
+      "field": "total",
+      "expected": "699773.01",
+      "actual": "10699773.01",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000726      742605.55      699773.01",
+      "actual_line": "ACCT000726      742605.55    10699773.01"
+    },
+    {
+      "account": "ACCT000737",
+      "field": "total",
+      "expected": "844524.91",
+      "actual": "10844524.91",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000737      863278.04      844524.91",
+      "actual_line": "ACCT000737      863278.04    10844524.91"
+    },
+    {
+      "account": "ACCT000756",
+      "field": "total",
+      "expected": "1110746.22",
+      "actual": "11110746.22",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000756     1516802.50     1110746.22",
+      "actual_line": "ACCT000756     1516802.50    11110746.22"
+    },
+    {
+      "account": "ACCT000757",
+      "field": "total",
+      "expected": "541919.99",
+      "actual": "10541919.99",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000757      970190.50      541919.99",
+      "actual_line": "ACCT000757      970190.50    10541919.99"
+    },
+    {
+      "account": "ACCT000766",
+      "field": "total",
+      "expected": "945515.17",
+      "actual": "10945515.17",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000766     1384276.18      945515.17",
+      "actual_line": "ACCT000766     1384276.18    10945515.17"
+    },
+    {
+      "account": "ACCT000767",
+      "field": "total",
+      "expected": "618441.81",
+      "actual": "10618441.81",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000767     1437703.60      618441.81",
+      "actual_line": "ACCT000767     1437703.60    10618441.81"
+    },
+    {
+      "account": "ACCT000776",
+      "field": "total",
+      "expected": "437710.21",
+      "actual": "10437710.21",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000776     1203168.45      437710.21",
+      "actual_line": "ACCT000776     1203168.45    10437710.21"
+    },
+    {
+      "account": "ACCT000777",
+      "field": "total",
+      "expected": "644276.21",
+      "actual": "10644276.21",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000777     1188580.90      644276.21",
+      "actual_line": "ACCT000777     1188580.90    10644276.21"
+    },
+    {
+      "account": "ACCT000787",
+      "field": "total",
+      "expected": "162650.06",
+      "actual": "10162650.06",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000787      739264.59      162650.06",
+      "actual_line": "ACCT000787      739264.59    10162650.06"
+    },
+    {
+      "account": "ACCT000797",
+      "field": "total",
+      "expected": "956360.91",
+      "actual": "10956360.91",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000797     1220575.43      956360.91",
+      "actual_line": "ACCT000797     1220575.43    10956360.91"
+    },
+    {
+      "account": "ACCT000806",
+      "field": "total",
+      "expected": "1013154.19",
+      "actual": "11013154.19",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000806     1073663.76     1013154.19",
+      "actual_line": "ACCT000806     1073663.76    11013154.19"
+    },
+    {
+      "account": "ACCT000807",
+      "field": "total",
+      "expected": "9234.69",
+      "actual": "10009234.69",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000807      398370.33        9234.69",
+      "actual_line": "ACCT000807      398370.33    10009234.69"
+    },
+    {
+      "account": "ACCT000816",
+      "field": "total",
+      "expected": "920745.63",
+      "actual": "10920745.63",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000816     1270204.26      920745.63",
+      "actual_line": "ACCT000816     1270204.26    10920745.63"
+    },
+    {
+      "account": "ACCT000817",
+      "field": "total",
+      "expected": "320033.86",
+      "actual": "10320033.86",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000817      994982.93      320033.86",
+      "actual_line": "ACCT000817      994982.93    10320033.86"
+    },
+    {
+      "account": "ACCT000826",
+      "field": "total",
+      "expected": "140370.64",
+      "actual": "10140370.64",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000826      146706.98      140370.64",
+      "actual_line": "ACCT000826      146706.98    10140370.64"
+    },
+    {
+      "account": "ACCT000836",
+      "field": "total",
+      "expected": "334008.36",
+      "actual": "10334008.36",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000836      748352.18      334008.36",
+      "actual_line": "ACCT000836      748352.18    10334008.36"
+    },
+    {
+      "account": "ACCT000837",
+      "field": "total",
+      "expected": "659194.45",
+      "actual": "10659194.45",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000837      889975.82      659194.45",
+      "actual_line": "ACCT000837      889975.82    10659194.45"
+    },
+    {
+      "account": "ACCT000846",
+      "field": "total",
+      "expected": "229547.68",
+      "actual": "10229547.68",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000846     1126420.91      229547.68",
+      "actual_line": "ACCT000846     1126420.91    10229547.68"
+    },
+    {
+      "account": "ACCT000847",
+      "field": "total",
+      "expected": "202523.28",
+      "actual": "10202523.28",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000847      696151.60      202523.28",
+      "actual_line": "ACCT000847      696151.60    10202523.28"
+    },
+    {
+      "account": "ACCT000856",
+      "field": "total",
+      "expected": "83922.27",
+      "actual": "10083922.27",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000856      378884.67       83922.27",
+      "actual_line": "ACCT000856      378884.67    10083922.27"
+    },
+    {
+      "account": "ACCT000857",
+      "field": "total",
+      "expected": "119821.44",
+      "actual": "10119821.44",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000857      792109.31      119821.44",
+      "actual_line": "ACCT000857      792109.31    10119821.44"
+    },
+    {
+      "account": "ACCT000866",
+      "field": "total",
+      "expected": "58183.89",
+      "actual": "10058183.89",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000866      143075.02       58183.89",
+      "actual_line": "ACCT000866      143075.02    10058183.89"
+    },
+    {
+      "account": "ACCT000867",
+      "field": "total",
+      "expected": "598688.11",
+      "actual": "10598688.11",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000867     1447293.12      598688.11",
+      "actual_line": "ACCT000867     1447293.12    10598688.11"
+    },
+    {
+      "account": "ACCT000877",
+      "field": "total",
+      "expected": "1103396.36",
+      "actual": "11103396.36",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000877     1422087.46     1103396.36",
+      "actual_line": "ACCT000877     1422087.46    11103396.36"
+    },
+    {
+      "account": "ACCT000886",
+      "field": "total",
+      "expected": "366871.71",
+      "actual": "10366871.71",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000886      749661.53      366871.71",
+      "actual_line": "ACCT000886      749661.53    10366871.71"
+    },
+    {
+      "account": "ACCT000887",
+      "field": "total",
+      "expected": "1266119.94",
+      "actual": "11266119.94",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000887     1323115.59     1266119.94",
+      "actual_line": "ACCT000887     1323115.59    11266119.94"
+    },
+    {
+      "account": "ACCT000897",
+      "field": "total",
+      "expected": "195732.21",
+      "actual": "10195732.21",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000897     1165688.36      195732.21",
+      "actual_line": "ACCT000897     1165688.36    10195732.21"
+    },
+    {
+      "account": "ACCT000906",
+      "field": "total",
+      "expected": "893845.85",
+      "actual": "10893845.85",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000906     1080366.00      893845.85",
+      "actual_line": "ACCT000906     1080366.00    10893845.85"
+    },
+    {
+      "account": "ACCT000907",
+      "field": "total",
+      "expected": "323765.61",
+      "actual": "10323765.61",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000907      834225.47      323765.61",
+      "actual_line": "ACCT000907      834225.47    10323765.61"
+    },
+    {
+      "account": "ACCT000916",
+      "field": "total",
+      "expected": "367506.65",
+      "actual": "10367506.65",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000916      447207.10      367506.65",
+      "actual_line": "ACCT000916      447207.10    10367506.65"
+    },
+    {
+      "account": "ACCT000917",
+      "field": "total",
+      "expected": "1019827.44",
+      "actual": "11019827.44",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000917     1290068.71     1019827.44",
+      "actual_line": "ACCT000917     1290068.71    11019827.44"
+    },
+    {
+      "account": "ACCT000926",
+      "field": "total",
+      "expected": "515722.43",
+      "actual": "10515722.43",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000926      648660.64      515722.43",
+      "actual_line": "ACCT000926      648660.64    10515722.43"
+    },
+    {
+      "account": "ACCT000927",
+      "field": "total",
+      "expected": "466663.77",
+      "actual": "10466663.77",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000927      479198.58      466663.77",
+      "actual_line": "ACCT000927      479198.58    10466663.77"
+    },
+    {
+      "account": "ACCT000936",
+      "field": "total",
+      "expected": "286902.13",
+      "actual": "10286902.13",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000936      884485.35      286902.13",
+      "actual_line": "ACCT000936      884485.35    10286902.13"
+    },
+    {
+      "account": "ACCT000937",
+      "field": "total",
+      "expected": "636065.65",
+      "actual": "10636065.65",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000937      816587.78      636065.65",
+      "actual_line": "ACCT000937      816587.78    10636065.65"
+    },
+    {
+      "account": "ACCT000946",
+      "field": "total",
+      "expected": "1022407.66",
+      "actual": "11022407.66",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000946     1336040.61     1022407.66",
+      "actual_line": "ACCT000946     1336040.61    11022407.66"
+    },
+    {
+      "account": "ACCT000947",
+      "field": "total",
+      "expected": "121923.54",
+      "actual": "10121923.54",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000947      459911.76      121923.54",
+      "actual_line": "ACCT000947      459911.76    10121923.54"
+    },
+    {
+      "account": "ACCT000956",
+      "field": "total",
+      "expected": "1027941.67",
+      "actual": "11027941.67",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000956     1256075.66     1027941.67",
+      "actual_line": "ACCT000956     1256075.66    11027941.67"
+    },
+    {
+      "account": "ACCT000957",
+      "field": "total",
+      "expected": "87555.93",
+      "actual": "10087555.93",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000957      714507.48       87555.93",
+      "actual_line": "ACCT000957      714507.48    10087555.93"
+    },
+    {
+      "account": "ACCT000966",
+      "field": "total",
+      "expected": "778447.53",
+      "actual": "10778447.53",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000966     1456143.84      778447.53",
+      "actual_line": "ACCT000966     1456143.84    10778447.53"
+    },
+    {
+      "account": "ACCT000967",
+      "field": "total",
+      "expected": "97728.01",
+      "actual": "10097728.01",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000967     1052421.42       97728.01",
+      "actual_line": "ACCT000967     1052421.42    10097728.01"
+    },
+    {
+      "account": "ACCT000977",
+      "field": "total",
+      "expected": "511136.41",
+      "actual": "10511136.41",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000977     1019754.11      511136.41",
+      "actual_line": "ACCT000977     1019754.11    10511136.41"
+    },
+    {
+      "account": "ACCT000996",
+      "field": "total",
+      "expected": "760700.42",
+      "actual": "10760700.42",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000996      809803.95      760700.42",
+      "actual_line": "ACCT000996      809803.95    10760700.42"
+    },
+    {
+      "account": "ACCT000997",
+      "field": "total",
+      "expected": "658278.40",
+      "actual": "10658278.40",
+      "delta": "10000000.00",
+      "golden_line": "ACCT000997     1233096.54      658278.40",
+      "actual_line": "ACCT000997     1233096.54    10658278.40"
+    },
+    {
+      "account": "ACCT001006",
+      "field": "total",
+      "expected": "835985.11",
+      "actual": "10835985.11",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001006      930972.17      835985.11",
+      "actual_line": "ACCT001006      930972.17    10835985.11"
+    },
+    {
+      "account": "ACCT001007",
+      "field": "total",
+      "expected": "1365306.28",
+      "actual": "11365306.28",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001007     1498732.55     1365306.28",
+      "actual_line": "ACCT001007     1498732.55    11365306.28"
+    },
+    {
+      "account": "ACCT001016",
+      "field": "total",
+      "expected": "398443.67",
+      "actual": "10398443.67",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001016      639686.53      398443.67",
+      "actual_line": "ACCT001016      639686.53    10398443.67"
+    },
+    {
+      "account": "ACCT001026",
+      "field": "total",
+      "expected": "866656.11",
+      "actual": "10866656.11",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001026     1438378.09      866656.11",
+      "actual_line": "ACCT001026     1438378.09    10866656.11"
+    },
+    {
+      "account": "ACCT001056",
+      "field": "total",
+      "expected": "280450.56",
+      "actual": "10280450.56",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001056     1143815.36      280450.56",
+      "actual_line": "ACCT001056     1143815.36    10280450.56"
+    },
+    {
+      "account": "ACCT001057",
+      "field": "total",
+      "expected": "420306.99",
+      "actual": "10420306.99",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001057     1294656.09      420306.99",
+      "actual_line": "ACCT001057     1294656.09    10420306.99"
+    },
+    {
+      "account": "ACCT001066",
+      "field": "total",
+      "expected": "325559.49",
+      "actual": "10325559.49",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001066      399427.55      325559.49",
+      "actual_line": "ACCT001066      399427.55    10325559.49"
+    },
+    {
+      "account": "ACCT001067",
+      "field": "total",
+      "expected": "328120.27",
+      "actual": "10328120.27",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001067      835362.67      328120.27",
+      "actual_line": "ACCT001067      835362.67    10328120.27"
+    },
+    {
+      "account": "ACCT001076",
+      "field": "total",
+      "expected": "636014.53",
+      "actual": "10636014.53",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001076      996704.64      636014.53",
+      "actual_line": "ACCT001076      996704.64    10636014.53"
+    },
+    {
+      "account": "ACCT001077",
+      "field": "total",
+      "expected": "614928.90",
+      "actual": "10614928.90",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001077     1398820.88      614928.90",
+      "actual_line": "ACCT001077     1398820.88    10614928.90"
+    },
+    {
+      "account": "ACCT001086",
+      "field": "total",
+      "expected": "113478.81",
+      "actual": "10113478.81",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001086      713286.59      113478.81",
+      "actual_line": "ACCT001086      713286.59    10113478.81"
+    },
+    {
+      "account": "ACCT001087",
+      "field": "total",
+      "expected": "929854.94",
+      "actual": "10929854.94",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001087     1469807.56      929854.94",
+      "actual_line": "ACCT001087     1469807.56    10929854.94"
+    },
+    {
+      "account": "ACCT001096",
+      "field": "total",
+      "expected": "1066504.59",
+      "actual": "11066504.59",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001096     1274437.53     1066504.59",
+      "actual_line": "ACCT001096     1274437.53    11066504.59"
+    },
+    {
+      "account": "ACCT001097",
+      "field": "total",
+      "expected": "256487.55",
+      "actual": "10256487.55",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001097     1208535.02      256487.55",
+      "actual_line": "ACCT001097     1208535.02    10256487.55"
+    },
+    {
+      "account": "ACCT001107",
+      "field": "total",
+      "expected": "320476.39",
+      "actual": "10320476.39",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001107     1028191.34      320476.39",
+      "actual_line": "ACCT001107     1028191.34    10320476.39"
+    },
+    {
+      "account": "ACCT001116",
+      "field": "total",
+      "expected": "840397.86",
+      "actual": "10840397.86",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001116      967270.31      840397.86",
+      "actual_line": "ACCT001116      967270.31    10840397.86"
+    },
+    {
+      "account": "ACCT001117",
+      "field": "total",
+      "expected": "656279.54",
+      "actual": "10656279.54",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001117     1089124.89      656279.54",
+      "actual_line": "ACCT001117     1089124.89    10656279.54"
+    },
+    {
+      "account": "ACCT001126",
+      "field": "total",
+      "expected": "184514.12",
+      "actual": "10184514.12",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001126      992797.33      184514.12",
+      "actual_line": "ACCT001126      992797.33    10184514.12"
+    },
+    {
+      "account": "ACCT001127",
+      "field": "total",
+      "expected": "273506.43",
+      "actual": "10273506.43",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001127      628923.27      273506.43",
+      "actual_line": "ACCT001127      628923.27    10273506.43"
+    },
+    {
+      "account": "ACCT001136",
+      "field": "total",
+      "expected": "866562.85",
+      "actual": "10866562.85",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001136     1229753.27      866562.85",
+      "actual_line": "ACCT001136     1229753.27    10866562.85"
+    },
+    {
+      "account": "ACCT001146",
+      "field": "total",
+      "expected": "566931.72",
+      "actual": "10566931.72",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001146     1124752.40      566931.72",
+      "actual_line": "ACCT001146     1124752.40    10566931.72"
+    },
+    {
+      "account": "ACCT001147",
+      "field": "total",
+      "expected": "401767.17",
+      "actual": "10401767.17",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001147     1052956.54      401767.17",
+      "actual_line": "ACCT001147     1052956.54    10401767.17"
+    },
+    {
+      "account": "ACCT001156",
+      "field": "total",
+      "expected": "64537.59",
+      "actual": "10064537.59",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001156      981101.89       64537.59",
+      "actual_line": "ACCT001156      981101.89    10064537.59"
+    },
+    {
+      "account": "ACCT001157",
+      "field": "total",
+      "expected": "628732.37",
+      "actual": "10628732.37",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001157      859227.92      628732.37",
+      "actual_line": "ACCT001157      859227.92    10628732.37"
+    },
+    {
+      "account": "ACCT001166",
+      "field": "total",
+      "expected": "26944.47",
+      "actual": "10026944.47",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001166      279365.61       26944.47",
+      "actual_line": "ACCT001166      279365.61    10026944.47"
+    },
+    {
+      "account": "ACCT001167",
+      "field": "total",
+      "expected": "259251.14",
+      "actual": "10259251.14",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001167      920603.85      259251.14",
+      "actual_line": "ACCT001167      920603.85    10259251.14"
+    },
+    {
+      "account": "ACCT001176",
+      "field": "total",
+      "expected": "278616.53",
+      "actual": "10278616.53",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001176     1024437.61      278616.53",
+      "actual_line": "ACCT001176     1024437.61    10278616.53"
+    },
+    {
+      "account": "ACCT001186",
+      "field": "total",
+      "expected": "836437.18",
+      "actual": "10836437.18",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001186     1161133.23      836437.18",
+      "actual_line": "ACCT001186     1161133.23    10836437.18"
+    },
+    {
+      "account": "ACCT001196",
+      "field": "total",
+      "expected": "1310596.83",
+      "actual": "11310596.83",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001196     1318020.78     1310596.83",
+      "actual_line": "ACCT001196     1318020.78    11310596.83"
+    },
+    {
+      "account": "ACCT001197",
+      "field": "total",
+      "expected": "83512.62",
+      "actual": "10083512.62",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001197      743813.63       83512.62",
+      "actual_line": "ACCT001197      743813.63    10083512.62"
+    },
+    {
+      "account": "ACCT001206",
+      "field": "total",
+      "expected": "556711.41",
+      "actual": "10556711.41",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001206     1104068.67      556711.41",
+      "actual_line": "ACCT001206     1104068.67    10556711.41"
+    },
+    {
+      "account": "ACCT001207",
+      "field": "total",
+      "expected": "720075.78",
+      "actual": "10720075.78",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001207      756068.85      720075.78",
+      "actual_line": "ACCT001207      756068.85    10720075.78"
+    },
+    {
+      "account": "ACCT001216",
+      "field": "total",
+      "expected": "165820.00",
+      "actual": "10165820.00",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001216      659989.79      165820.00",
+      "actual_line": "ACCT001216      659989.79    10165820.00"
+    },
+    {
+      "account": "ACCT001217",
+      "field": "total",
+      "expected": "627436.35",
+      "actual": "10627436.35",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001217     1247279.46      627436.35",
+      "actual_line": "ACCT001217     1247279.46    10627436.35"
+    },
+    {
+      "account": "ACCT001226",
+      "field": "total",
+      "expected": "292812.95",
+      "actual": "10292812.95",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001226      747316.89      292812.95",
+      "actual_line": "ACCT001226      747316.89    10292812.95"
+    },
+    {
+      "account": "ACCT001236",
+      "field": "total",
+      "expected": "94707.05",
+      "actual": "10094707.05",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001236      575978.28       94707.05",
+      "actual_line": "ACCT001236      575978.28    10094707.05"
+    },
+    {
+      "account": "ACCT001237",
+      "field": "total",
+      "expected": "1173401.51",
+      "actual": "11173401.51",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001237     1259114.46     1173401.51",
+      "actual_line": "ACCT001237     1259114.46    11173401.51"
+    },
+    {
+      "account": "ACCT001246",
+      "field": "total",
+      "expected": "405257.14",
+      "actual": "10405257.14",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001246      744640.34      405257.14",
+      "actual_line": "ACCT001246      744640.34    10405257.14"
+    },
+    {
+      "account": "ACCT001256",
+      "field": "total",
+      "expected": "761264.46",
+      "actual": "10761264.46",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001256     1390850.54      761264.46",
+      "actual_line": "ACCT001256     1390850.54    10761264.46"
+    },
+    {
+      "account": "ACCT001266",
+      "field": "total",
+      "expected": "622177.07",
+      "actual": "10622177.07",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001266     1048163.05      622177.07",
+      "actual_line": "ACCT001266     1048163.05    10622177.07"
+    },
+    {
+      "account": "ACCT001267",
+      "field": "total",
+      "expected": "1176598.49",
+      "actual": "11176598.49",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001267     1239547.71     1176598.49",
+      "actual_line": "ACCT001267     1239547.71    11176598.49"
+    },
+    {
+      "account": "ACCT001286",
+      "field": "total",
+      "expected": "596118.81",
+      "actual": "10596118.81",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001286      771069.84      596118.81",
+      "actual_line": "ACCT001286      771069.84    10596118.81"
+    },
+    {
+      "account": "ACCT001296",
+      "field": "total",
+      "expected": "57913.86",
+      "actual": "10057913.86",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001296     1009609.77       57913.86",
+      "actual_line": "ACCT001296     1009609.77    10057913.86"
+    },
+    {
+      "account": "ACCT001297",
+      "field": "total",
+      "expected": "739567.25",
+      "actual": "10739567.25",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001297      979607.19      739567.25",
+      "actual_line": "ACCT001297      979607.19    10739567.25"
+    },
+    {
+      "account": "ACCT001316",
+      "field": "total",
+      "expected": "348999.97",
+      "actual": "10348999.97",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001316      422377.77      348999.97",
+      "actual_line": "ACCT001316      422377.77    10348999.97"
+    },
+    {
+      "account": "ACCT001317",
+      "field": "total",
+      "expected": "103831.24",
+      "actual": "10103831.24",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001317      781921.77      103831.24",
+      "actual_line": "ACCT001317      781921.77    10103831.24"
+    },
+    {
+      "account": "ACCT001326",
+      "field": "total",
+      "expected": "842178.95",
+      "actual": "10842178.95",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001326     1246735.91      842178.95",
+      "actual_line": "ACCT001326     1246735.91    10842178.95"
+    },
+    {
+      "account": "ACCT001327",
+      "field": "total",
+      "expected": "917377.59",
+      "actual": "10917377.59",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001327     1404649.44      917377.59",
+      "actual_line": "ACCT001327     1404649.44    10917377.59"
+    },
+    {
+      "account": "ACCT001336",
+      "field": "total",
+      "expected": "673817.55",
+      "actual": "10673817.55",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001336     1426492.38      673817.55",
+      "actual_line": "ACCT001336     1426492.38    10673817.55"
+    },
+    {
+      "account": "ACCT001346",
+      "field": "total",
+      "expected": "687340.74",
+      "actual": "10687340.74",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001346     1243974.62      687340.74",
+      "actual_line": "ACCT001346     1243974.62    10687340.74"
+    },
+    {
+      "account": "ACCT001347",
+      "field": "total",
+      "expected": "790865.06",
+      "actual": "10790865.06",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001347      868960.41      790865.06",
+      "actual_line": "ACCT001347      868960.41    10790865.06"
+    },
+    {
+      "account": "ACCT001357",
+      "field": "total",
+      "expected": "523278.28",
+      "actual": "10523278.28",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001357      871462.45      523278.28",
+      "actual_line": "ACCT001357      871462.45    10523278.28"
+    },
+    {
+      "account": "ACCT001367",
+      "field": "total",
+      "expected": "415850.90",
+      "actual": "10415850.90",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001367     1246241.60      415850.90",
+      "actual_line": "ACCT001367     1246241.60    10415850.90"
+    },
+    {
+      "account": "ACCT001376",
+      "field": "total",
+      "expected": "565605.88",
+      "actual": "10565605.88",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001376      736586.70      565605.88",
+      "actual_line": "ACCT001376      736586.70    10565605.88"
+    },
+    {
+      "account": "ACCT001386",
+      "field": "total",
+      "expected": "933224.40",
+      "actual": "10933224.40",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001386     1174989.11      933224.40",
+      "actual_line": "ACCT001386     1174989.11    10933224.40"
+    },
+    {
+      "account": "ACCT001387",
+      "field": "total",
+      "expected": "205923.01",
+      "actual": "10205923.01",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001387      678451.26      205923.01",
+      "actual_line": "ACCT001387      678451.26    10205923.01"
+    },
+    {
+      "account": "ACCT001396",
+      "field": "total",
+      "expected": "371371.39",
+      "actual": "10371371.39",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001396     1261850.79      371371.39",
+      "actual_line": "ACCT001396     1261850.79    10371371.39"
+    },
+    {
+      "account": "ACCT001397",
+      "field": "total",
+      "expected": "687860.11",
+      "actual": "10687860.11",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001397      855603.01      687860.11",
+      "actual_line": "ACCT001397      855603.01    10687860.11"
+    },
+    {
+      "account": "ACCT001406",
+      "field": "total",
+      "expected": "1256769.63",
+      "actual": "11256769.63",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001406     1539338.30     1256769.63",
+      "actual_line": "ACCT001406     1539338.30    11256769.63"
+    },
+    {
+      "account": "ACCT001407",
+      "field": "total",
+      "expected": "1190050.60",
+      "actual": "11190050.60",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001407     1275330.45     1190050.60",
+      "actual_line": "ACCT001407     1275330.45    11190050.60"
+    },
+    {
+      "account": "ACCT001426",
+      "field": "total",
+      "expected": "1368563.97",
+      "actual": "11368563.97",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001426     1402608.56     1368563.97",
+      "actual_line": "ACCT001426     1402608.56    11368563.97"
+    },
+    {
+      "account": "ACCT001427",
+      "field": "total",
+      "expected": "549264.29",
+      "actual": "10549264.29",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001427      956931.15      549264.29",
+      "actual_line": "ACCT001427      956931.15    10549264.29"
+    },
+    {
+      "account": "ACCT001436",
+      "field": "total",
+      "expected": "689604.07",
+      "actual": "10689604.07",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001436     1079157.09      689604.07",
+      "actual_line": "ACCT001436     1079157.09    10689604.07"
+    },
+    {
+      "account": "ACCT001446",
+      "field": "total",
+      "expected": "1094280.00",
+      "actual": "11094280.00",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001446     1447583.31     1094280.00",
+      "actual_line": "ACCT001446     1447583.31    11094280.00"
+    },
+    {
+      "account": "ACCT001447",
+      "field": "total",
+      "expected": "110399.40",
+      "actual": "10110399.40",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001447      690567.85      110399.40",
+      "actual_line": "ACCT001447      690567.85    10110399.40"
+    },
+    {
+      "account": "ACCT001457",
+      "field": "total",
+      "expected": "476234.86",
+      "actual": "10476234.86",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001457      578147.29      476234.86",
+      "actual_line": "ACCT001457      578147.29    10476234.86"
+    },
+    {
+      "account": "ACCT001487",
+      "field": "total",
+      "expected": "424875.09",
+      "actual": "10424875.09",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001487      485915.72      424875.09",
+      "actual_line": "ACCT001487      485915.72    10424875.09"
+    },
+    {
+      "account": "ACCT001496",
+      "field": "total",
+      "expected": "188143.71",
+      "actual": "10188143.71",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001496      389590.48      188143.71",
+      "actual_line": "ACCT001496      389590.48    10188143.71"
+    },
+    {
+      "account": "ACCT001497",
+      "field": "total",
+      "expected": "494578.55",
+      "actual": "10494578.55",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001497     1405766.55      494578.55",
+      "actual_line": "ACCT001497     1405766.55    10494578.55"
+    },
+    {
+      "account": "ACCT001516",
+      "field": "total",
+      "expected": "824070.73",
+      "actual": "10824070.73",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001516     1361312.41      824070.73",
+      "actual_line": "ACCT001516     1361312.41    10824070.73"
+    },
+    {
+      "account": "ACCT001536",
+      "field": "total",
+      "expected": "799213.82",
+      "actual": "10799213.82",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001536     1167292.54      799213.82",
+      "actual_line": "ACCT001536     1167292.54    10799213.82"
+    },
+    {
+      "account": "ACCT001537",
+      "field": "total",
+      "expected": "988462.28",
+      "actual": "10988462.28",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001537     1296238.07      988462.28",
+      "actual_line": "ACCT001537     1296238.07    10988462.28"
+    },
+    {
+      "account": "ACCT001546",
+      "field": "total",
+      "expected": "1367308.00",
+      "actual": "11367308.00",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001546     1420938.37     1367308.00",
+      "actual_line": "ACCT001546     1420938.37    11367308.00"
+    },
+    {
+      "account": "ACCT001547",
+      "field": "total",
+      "expected": "87412.68",
+      "actual": "10087412.68",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001547      260128.22       87412.68",
+      "actual_line": "ACCT001547      260128.22    10087412.68"
+    },
+    {
+      "account": "ACCT001556",
+      "field": "total",
+      "expected": "243627.90",
+      "actual": "10243627.90",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001556      489278.18      243627.90",
+      "actual_line": "ACCT001556      489278.18    10243627.90"
+    },
+    {
+      "account": "ACCT001557",
+      "field": "total",
+      "expected": "343796.89",
+      "actual": "10343796.89",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001557      419500.03      343796.89",
+      "actual_line": "ACCT001557      419500.03    10343796.89"
+    },
+    {
+      "account": "ACCT001566",
+      "field": "total",
+      "expected": "20646.20",
+      "actual": "10020646.20",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001566      385687.40       20646.20",
+      "actual_line": "ACCT001566      385687.40    10020646.20"
+    },
+    {
+      "account": "ACCT001567",
+      "field": "total",
+      "expected": "1041652.14",
+      "actual": "11041652.14",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001567     1335302.52     1041652.14",
+      "actual_line": "ACCT001567     1335302.52    11041652.14"
+    },
+    {
+      "account": "ACCT001576",
+      "field": "total",
+      "expected": "109599.97",
+      "actual": "10109599.97",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001576      767198.05      109599.97",
+      "actual_line": "ACCT001576      767198.05    10109599.97"
+    },
+    {
+      "account": "ACCT001586",
+      "field": "total",
+      "expected": "1080378.06",
+      "actual": "11080378.06",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001586     1152791.37     1080378.06",
+      "actual_line": "ACCT001586     1152791.37    11080378.06"
+    },
+    {
+      "account": "ACCT001587",
+      "field": "total",
+      "expected": "706608.96",
+      "actual": "10706608.96",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001587     1102718.68      706608.96",
+      "actual_line": "ACCT001587     1102718.68    10706608.96"
+    },
+    {
+      "account": "ACCT001596",
+      "field": "total",
+      "expected": "978407.40",
+      "actual": "10978407.40",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001596     1199569.99      978407.40",
+      "actual_line": "ACCT001596     1199569.99    10978407.40"
+    },
+    {
+      "account": "ACCT001597",
+      "field": "total",
+      "expected": "522431.13",
+      "actual": "10522431.13",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001597      659716.95      522431.13",
+      "actual_line": "ACCT001597      659716.95    10522431.13"
+    },
+    {
+      "account": "ACCT001606",
+      "field": "total",
+      "expected": "909269.85",
+      "actual": "10909269.85",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001606     1495881.54      909269.85",
+      "actual_line": "ACCT001606     1495881.54    10909269.85"
+    },
+    {
+      "account": "ACCT001607",
+      "field": "total",
+      "expected": "391887.73",
+      "actual": "10391887.73",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001607     1326770.55      391887.73",
+      "actual_line": "ACCT001607     1326770.55    10391887.73"
+    },
+    {
+      "account": "ACCT001616",
+      "field": "total",
+      "expected": "547515.65",
+      "actual": "10547515.65",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001616      599187.79      547515.65",
+      "actual_line": "ACCT001616      599187.79    10547515.65"
+    },
+    {
+      "account": "ACCT001617",
+      "field": "total",
+      "expected": "435994.23",
+      "actual": "10435994.23",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001617      463044.08      435994.23",
+      "actual_line": "ACCT001617      463044.08    10435994.23"
+    },
+    {
+      "account": "ACCT001626",
+      "field": "total",
+      "expected": "348214.94",
+      "actual": "10348214.94",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001626     1130218.54      348214.94",
+      "actual_line": "ACCT001626     1130218.54    10348214.94"
+    },
+    {
+      "account": "ACCT001637",
+      "field": "total",
+      "expected": "845922.89",
+      "actual": "10845922.89",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001637      985186.20      845922.89",
+      "actual_line": "ACCT001637      985186.20    10845922.89"
+    },
+    {
+      "account": "ACCT001646",
+      "field": "total",
+      "expected": "327131.45",
+      "actual": "10327131.45",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001646      687498.61      327131.45",
+      "actual_line": "ACCT001646      687498.61    10327131.45"
+    },
+    {
+      "account": "ACCT001647",
+      "field": "total",
+      "expected": "470888.69",
+      "actual": "10470888.69",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001647     1209041.53      470888.69",
+      "actual_line": "ACCT001647     1209041.53    10470888.69"
+    },
+    {
+      "account": "ACCT001656",
+      "field": "total",
+      "expected": "618225.62",
+      "actual": "10618225.62",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001656      790630.06      618225.62",
+      "actual_line": "ACCT001656      790630.06    10618225.62"
+    },
+    {
+      "account": "ACCT001657",
+      "field": "total",
+      "expected": "1378868.51",
+      "actual": "11378868.51",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001657     1529251.53     1378868.51",
+      "actual_line": "ACCT001657     1529251.53    11378868.51"
+    },
+    {
+      "account": "ACCT001666",
+      "field": "total",
+      "expected": "324311.79",
+      "actual": "10324311.79",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001666      770602.21      324311.79",
+      "actual_line": "ACCT001666      770602.21    10324311.79"
+    },
+    {
+      "account": "ACCT001676",
+      "field": "total",
+      "expected": "860299.48",
+      "actual": "10860299.48",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001676     1305979.94      860299.48",
+      "actual_line": "ACCT001676     1305979.94    10860299.48"
+    },
+    {
+      "account": "ACCT001677",
+      "field": "total",
+      "expected": "439371.98",
+      "actual": "10439371.98",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001677      819692.86      439371.98",
+      "actual_line": "ACCT001677      819692.86    10439371.98"
+    },
+    {
+      "account": "ACCT001687",
+      "field": "total",
+      "expected": "259783.60",
+      "actual": "10259783.60",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001687      439083.50      259783.60",
+      "actual_line": "ACCT001687      439083.50    10259783.60"
+    },
+    {
+      "account": "ACCT001696",
+      "field": "total",
+      "expected": "948722.52",
+      "actual": "10948722.52",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001696     1366434.30      948722.52",
+      "actual_line": "ACCT001696     1366434.30    10948722.52"
+    },
+    {
+      "account": "ACCT001706",
+      "field": "total",
+      "expected": "614529.57",
+      "actual": "10614529.57",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001706     1201314.51      614529.57",
+      "actual_line": "ACCT001706     1201314.51    10614529.57"
+    },
+    {
+      "account": "ACCT001716",
+      "field": "total",
+      "expected": "204308.83",
+      "actual": "10204308.83",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001716      337923.69      204308.83",
+      "actual_line": "ACCT001716      337923.69    10204308.83"
+    },
+    {
+      "account": "ACCT001717",
+      "field": "total",
+      "expected": "215169.39",
+      "actual": "10215169.39",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001717      437548.53      215169.39",
+      "actual_line": "ACCT001717      437548.53    10215169.39"
+    },
+    {
+      "account": "ACCT001727",
+      "field": "total",
+      "expected": "868704.32",
+      "actual": "10868704.32",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001727      925330.38      868704.32",
+      "actual_line": "ACCT001727      925330.38    10868704.32"
+    },
+    {
+      "account": "ACCT001736",
+      "field": "total",
+      "expected": "526696.18",
+      "actual": "10526696.18",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001736      961581.03      526696.18",
+      "actual_line": "ACCT001736      961581.03    10526696.18"
+    },
+    {
+      "account": "ACCT001746",
+      "field": "total",
+      "expected": "892570.55",
+      "actual": "10892570.55",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001746      955816.38      892570.55",
+      "actual_line": "ACCT001746      955816.38    10892570.55"
+    },
+    {
+      "account": "ACCT001747",
+      "field": "total",
+      "expected": "1087138.87",
+      "actual": "11087138.87",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001747     1225680.64     1087138.87",
+      "actual_line": "ACCT001747     1225680.64    11087138.87"
+    },
+    {
+      "account": "ACCT001757",
+      "field": "total",
+      "expected": "613567.50",
+      "actual": "10613567.50",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001757     1249701.55      613567.50",
+      "actual_line": "ACCT001757     1249701.55    10613567.50"
+    },
+    {
+      "account": "ACCT001766",
+      "field": "total",
+      "expected": "558208.71",
+      "actual": "10558208.71",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001766      646259.11      558208.71",
+      "actual_line": "ACCT001766      646259.11    10558208.71"
+    },
+    {
+      "account": "ACCT001776",
+      "field": "total",
+      "expected": "449438.53",
+      "actual": "10449438.53",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001776      713180.87      449438.53",
+      "actual_line": "ACCT001776      713180.87    10449438.53"
+    },
+    {
+      "account": "ACCT001786",
+      "field": "total",
+      "expected": "633074.68",
+      "actual": "10633074.68",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001786     1228600.51      633074.68",
+      "actual_line": "ACCT001786     1228600.51    10633074.68"
+    },
+    {
+      "account": "ACCT001787",
+      "field": "total",
+      "expected": "1204278.10",
+      "actual": "11204278.10",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001787     1423153.61     1204278.10",
+      "actual_line": "ACCT001787     1423153.61    11204278.10"
+    },
+    {
+      "account": "ACCT001797",
+      "field": "total",
+      "expected": "203495.20",
+      "actual": "10203495.20",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001797      429564.26      203495.20",
+      "actual_line": "ACCT001797      429564.26    10203495.20"
+    },
+    {
+      "account": "ACCT001807",
+      "field": "total",
+      "expected": "486111.00",
+      "actual": "10486111.00",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001807     1317605.87      486111.00",
+      "actual_line": "ACCT001807     1317605.87    10486111.00"
+    },
+    {
+      "account": "ACCT001817",
+      "field": "total",
+      "expected": "605446.50",
+      "actual": "10605446.50",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001817      992794.68      605446.50",
+      "actual_line": "ACCT001817      992794.68    10605446.50"
+    },
+    {
+      "account": "ACCT001826",
+      "field": "total",
+      "expected": "187288.23",
+      "actual": "10187288.23",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001826      425515.67      187288.23",
+      "actual_line": "ACCT001826      425515.67    10187288.23"
+    },
+    {
+      "account": "ACCT001827",
+      "field": "total",
+      "expected": "614296.51",
+      "actual": "10614296.51",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001827     1385917.90      614296.51",
+      "actual_line": "ACCT001827     1385917.90    10614296.51"
+    },
+    {
+      "account": "ACCT001846",
+      "field": "total",
+      "expected": "481099.10",
+      "actual": "10481099.10",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001846      970810.28      481099.10",
+      "actual_line": "ACCT001846      970810.28    10481099.10"
+    },
+    {
+      "account": "ACCT001847",
+      "field": "total",
+      "expected": "137332.69",
+      "actual": "10137332.69",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001847      360001.34      137332.69",
+      "actual_line": "ACCT001847      360001.34    10137332.69"
+    },
+    {
+      "account": "ACCT001856",
+      "field": "total",
+      "expected": "662202.09",
+      "actual": "10662202.09",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001856     1346085.66      662202.09",
+      "actual_line": "ACCT001856     1346085.66    10662202.09"
+    },
+    {
+      "account": "ACCT001866",
+      "field": "total",
+      "expected": "1400696.01",
+      "actual": "11400696.01",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001866     1519269.35     1400696.01",
+      "actual_line": "ACCT001866     1519269.35    11400696.01"
+    },
+    {
+      "account": "ACCT001867",
+      "field": "total",
+      "expected": "518870.05",
+      "actual": "10518870.05",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001867      727863.43      518870.05",
+      "actual_line": "ACCT001867      727863.43    10518870.05"
+    },
+    {
+      "account": "ACCT001876",
+      "field": "total",
+      "expected": "1115416.67",
+      "actual": "11115416.67",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001876     1462343.98     1115416.67",
+      "actual_line": "ACCT001876     1462343.98    11115416.67"
+    },
+    {
+      "account": "ACCT001877",
+      "field": "total",
+      "expected": "448263.54",
+      "actual": "10448263.54",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001877      758603.49      448263.54",
+      "actual_line": "ACCT001877      758603.49    10448263.54"
+    },
+    {
+      "account": "ACCT001886",
+      "field": "total",
+      "expected": "819760.24",
+      "actual": "10819760.24",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001886     1160208.73      819760.24",
+      "actual_line": "ACCT001886     1160208.73    10819760.24"
+    },
+    {
+      "account": "ACCT001887",
+      "field": "total",
+      "expected": "555725.31",
+      "actual": "10555725.31",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001887      698300.01      555725.31",
+      "actual_line": "ACCT001887      698300.01    10555725.31"
+    },
+    {
+      "account": "ACCT001897",
+      "field": "total",
+      "expected": "685997.45",
+      "actual": "10685997.45",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001897     1196948.62      685997.45",
+      "actual_line": "ACCT001897     1196948.62    10685997.45"
+    },
+    {
+      "account": "ACCT001907",
+      "field": "total",
+      "expected": "597115.67",
+      "actual": "10597115.67",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001907     1274249.37      597115.67",
+      "actual_line": "ACCT001907     1274249.37    10597115.67"
+    },
+    {
+      "account": "ACCT001917",
+      "field": "total",
+      "expected": "727717.34",
+      "actual": "10727717.34",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001917     1227099.77      727717.34",
+      "actual_line": "ACCT001917     1227099.77    10727717.34"
+    },
+    {
+      "account": "ACCT001926",
+      "field": "total",
+      "expected": "392912.66",
+      "actual": "10392912.66",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001926      517191.52      392912.66",
+      "actual_line": "ACCT001926      517191.52    10392912.66"
+    },
+    {
+      "account": "ACCT001927",
+      "field": "total",
+      "expected": "743061.37",
+      "actual": "10743061.37",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001927     1388986.57      743061.37",
+      "actual_line": "ACCT001927     1388986.57    10743061.37"
+    },
+    {
+      "account": "ACCT001936",
+      "field": "total",
+      "expected": "572851.66",
+      "actual": "10572851.66",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001936      588478.93      572851.66",
+      "actual_line": "ACCT001936      588478.93    10572851.66"
+    },
+    {
+      "account": "ACCT001937",
+      "field": "total",
+      "expected": "247164.60",
+      "actual": "10247164.60",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001937      249638.23      247164.60",
+      "actual_line": "ACCT001937      249638.23    10247164.60"
+    },
+    {
+      "account": "ACCT001947",
+      "field": "total",
+      "expected": "332175.44",
+      "actual": "10332175.44",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001947     1288062.56      332175.44",
+      "actual_line": "ACCT001947     1288062.56    10332175.44"
+    },
+    {
+      "account": "ACCT001956",
+      "field": "total",
+      "expected": "180448.49",
+      "actual": "10180448.49",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001956      894175.25      180448.49",
+      "actual_line": "ACCT001956      894175.25    10180448.49"
+    },
+    {
+      "account": "ACCT001966",
+      "field": "total",
+      "expected": "826050.53",
+      "actual": "10826050.53",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001966     1199129.31      826050.53",
+      "actual_line": "ACCT001966     1199129.31    10826050.53"
+    },
+    {
+      "account": "ACCT001976",
+      "field": "total",
+      "expected": "1149353.04",
+      "actual": "11149353.04",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001976     1514502.20     1149353.04",
+      "actual_line": "ACCT001976     1514502.20    11149353.04"
+    },
+    {
+      "account": "ACCT001977",
+      "field": "total",
+      "expected": "342090.61",
+      "actual": "10342090.61",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001977      369581.20      342090.61",
+      "actual_line": "ACCT001977      369581.20    10342090.61"
+    },
+    {
+      "account": "ACCT001987",
+      "field": "total",
+      "expected": "176650.97",
+      "actual": "10176650.97",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001987     1137247.37      176650.97",
+      "actual_line": "ACCT001987     1137247.37    10176650.97"
+    },
+    {
+      "account": "ACCT001996",
+      "field": "total",
+      "expected": "945935.10",
+      "actual": "10945935.10",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001996     1091479.50      945935.10",
+      "actual_line": "ACCT001996     1091479.50    10945935.10"
+    },
+    {
+      "account": "ACCT001997",
+      "field": "total",
+      "expected": "826639.65",
+      "actual": "10826639.65",
+      "delta": "10000000.00",
+      "golden_line": "ACCT001997     1076248.21      826639.65",
+      "actual_line": "ACCT001997     1076248.21    10826639.65"
+    }
+  ]
+}
